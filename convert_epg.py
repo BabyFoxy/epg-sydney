@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import gzip
+import io
 import re
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -123,7 +124,10 @@ def download_source() -> str:
 def write_outputs(xml: str) -> None:
     OUTPUT_XML.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_XML.write_text(xml, encoding="utf-8")
-    OUTPUT_GZIP.write_bytes(gzip.compress(xml.encode("utf-8"), compresslevel=9, mtime=0))
+    buffer = io.BytesIO()
+    with gzip.GzipFile(fileobj=buffer, mode="wb", compresslevel=9, mtime=0) as stream:
+        stream.write(xml.encode("utf-8"))
+    OUTPUT_GZIP.write_bytes(buffer.getvalue())
 
 
 def main() -> None:
