@@ -28,6 +28,8 @@ jobs:
         run: python -m unittest discover -s tests -p 'test_*.py'
 
       - name: Download and convert EPG
+        env:
+          PLAYLIST_URL: ${{ secrets.PLAYLIST_URL }}
         run: python convert_epg.py
 
       - name: Commit changed EPG files

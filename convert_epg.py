@@ -5,11 +5,15 @@ from __future__ import annotations
 
 import gzip
 import io
+import os
 import re
 import urllib.request
+import unicodedata
+from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from xml.sax.saxutils import escape
 
 
 SOURCE_URL = "https://live.fanmingming.cn/e.xml"
@@ -31,6 +35,33 @@ TIME_ATTRIBUTE_RE = re.compile(
     r"(?P<quote>[\"'])(?P<value>[^\"']*)(?P=quote)",
     re.IGNORECASE,
 )
+EXTINF_ATTRIBUTE_RE = re.compile(r'([\w-]+)="([^"]*)"')
+CHANNEL_BLOCK_RE = re.compile(
+    r"(?P<block><channel\b(?P<open>[^>]*)>.*?</channel\s*>)", re.IGNORECASE | re.DOTALL
+)
+PROGRAMME_BLOCK_RE = re.compile(
+    r"(?P<block><programme\b(?P<open>[^>]*)>.*?</programme\s*>)",
+    re.IGNORECASE | re.DOTALL,
+)
+DISPLAY_NAME_RE = re.compile(r"<display-name\b[^>]*>(.*?)</display-name\s*>", re.IGNORECASE | re.DOTALL)
+CCTV_MAIN_SUFFIXES = {
+    "综合",
+    "财经",
+    "综艺",
+    "中文国际",
+    "体育",
+    "电影",
+    "国防军事",
+    "电视剧",
+    "纪录",
+    "科教",
+    "戏曲",
+    "社会与法",
+    "新闻",
+    "少儿",
+    "音乐",
+    "农业农村",
+}
 
 
 def parse_xmltv_timestamp(value: str) -> datetime:
@@ -112,6 +143,130 @@ def convert_xml(xml: str) -> tuple[str, int, int]:
     return converted, programmes, timestamps
 
 
+def get_attribute(tag: str, name: str) -> str | None:
+    """Return a quoted attribute from an XML opening tag without reformatting it."""
+
+    match = re.search(rf"\b{re.escape(name)}\s*=\s*([\"'])(.*?)\1", tag, re.IGNORECASE)
+    return match.group(2) if match else None
+
+
+def replace_attribute(tag: str, name: str, value: str) -> str:
+    """Replace one quoted XML attribute, preserving the surrounding markup."""
+
+    escaped = escape(value, {'"': "&quot;"})
+    pattern = re.compile(rf"(\b{re.escape(name)}\s*=\s*)([\"']).*?\2", re.IGNORECASE)
+    return pattern.sub(lambda match: f"{match.group(1)}{match.group(2)}{escaped}{match.group(2)}", tag, count=1)
+
+
+def normalise_channel_name(value: str) -> str:
+    """Normalise superficial spelling differences without translating channel names."""
+
+    value = unicodedata.normalize("NFKC", value).casefold()
+    return re.sub(r"[\s_.\-()\[\]（）]+", "", value)
+
+
+def playlist_identities(playlist: str) -> set[str]:
+    """Read public channel metadata from an M3U without retaining stream URLs."""
+
+    identities: set[str] = set()
+    for line in playlist.splitlines():
+        if not line.startswith("#EXTINF"):
+            continue
+        attributes = dict(EXTINF_ATTRIBUTE_RE.findall(line))
+        label = line.rsplit(",", 1)[-1].strip()
+        for value in (attributes.get("tvg-id"), attributes.get("tvg-name"), label):
+            if value:
+                identities.add(value.strip())
+    return identities
+
+
+def build_channel_lookup(xml: str) -> tuple[dict[str, str], dict[str, str]]:
+    """Create name lookup and source channel opening blocks from XMLTV channel tags."""
+
+    lookup: dict[str, set[str]] = defaultdict(set)
+    channel_blocks: dict[str, str] = {}
+    for match in CHANNEL_BLOCK_RE.finditer(xml):
+        channel_id = get_attribute(match.group("open"), "id")
+        if not channel_id:
+            continue
+        channel_blocks.setdefault(channel_id, match.group("block"))
+        names = [channel_id, *DISPLAY_NAME_RE.findall(match.group("block"))]
+        for name in names:
+            if name.strip():
+                lookup[normalise_channel_name(name)].add(channel_id)
+
+    # Keep only unambiguous names: aliases must never guess between two EPG channels.
+    return (
+        {name: next(iter(ids)) for name, ids in lookup.items() if len(ids) == 1},
+        channel_blocks,
+    )
+
+
+def resolve_playlist_name(name: str, lookup: dict[str, str]) -> str | None:
+    """Match an M3U name to an unambiguous XMLTV channel ID."""
+
+    candidate = normalise_channel_name(name)
+    candidates = [candidate]
+    for suffix in ("av3a", "mcp"):
+        if candidate.endswith(suffix):
+            candidates.append(candidate[: -len(suffix)])
+
+    # Provider shorthand for CCTV5+.
+    if candidate == "cctv5p":
+        candidates.extend(("cctv5+", "cctv5plus"))
+
+    # Common official CCTV labels, e.g. CCTV1综合 -> CCTV1.
+    match = re.fullmatch(r"cctv(\d+)([\u4e00-\u9fff]+)", candidate)
+    if match and match.group(2) in CCTV_MAIN_SUFFIXES:
+        candidates.append(f"cctv{match.group(1)}")
+    if candidate == "cctv5+体育赛事":
+        candidates.extend(("cctv5+", "cctv5plus"))
+
+    for item in candidates:
+        target = lookup.get(item)
+        if target:
+            return target
+    return None
+
+
+def apply_playlist_aliases(xml: str, playlist: str) -> tuple[str, dict[str, str]]:
+    """Add XMLTV aliases so the supplied M3U's names can resolve programme data."""
+
+    lookup, channel_blocks = build_channel_lookup(xml)
+    aliases: dict[str, str] = {}
+    for identity in playlist_identities(playlist):
+        target = resolve_playlist_name(identity, lookup)
+        if target and identity != target:
+            aliases[identity] = target
+
+    if not aliases:
+        return xml, aliases
+
+    programmes_by_channel: dict[str, list[str]] = defaultdict(list)
+    for match in PROGRAMME_BLOCK_RE.finditer(xml):
+        channel_id = get_attribute(match.group("open"), "channel")
+        if channel_id:
+            programmes_by_channel[channel_id].append(match.group("block"))
+
+    additions: list[str] = []
+    for alias, target in sorted(aliases.items(), key=lambda item: item[0].casefold()):
+        channel_block = channel_blocks.get(target)
+        if not channel_block:
+            continue
+        additions.append(replace_attribute(channel_block, "id", alias))
+        additions.extend(
+            replace_attribute(programme, "channel", alias)
+            for programme in programmes_by_channel.get(target, [])
+        )
+
+    closing_tag = "</tv>"
+    closing_index = xml.rfind(closing_tag)
+    if closing_index == -1:
+        raise ValueError("Converted XMLTV document has no closing </tv> tag")
+    additions_xml = "\n".join(additions)
+    return f"{xml[:closing_index]}\n{additions_xml}\n{xml[closing_index:]}", aliases
+
+
 def download_source() -> str:
     request = urllib.request.Request(
         SOURCE_URL,
@@ -119,6 +274,17 @@ def download_source() -> str:
     )
     with urllib.request.urlopen(request, timeout=120) as response:
         return response.read().decode("utf-8", errors="replace")
+
+
+def download_playlist(url: str) -> str:
+    """Download an M3U source without ever printing its potentially private URL."""
+
+    request = urllib.request.Request(url, headers={"User-Agent": "epg-sydney/1.0"})
+    try:
+        with urllib.request.urlopen(request, timeout=120) as response:
+            return response.read().decode("utf-8", errors="replace")
+    except OSError as error:
+        raise RuntimeError("Playlist download failed") from error
 
 
 def write_outputs(xml: str) -> None:
@@ -133,13 +299,17 @@ def write_outputs(xml: str) -> None:
 def main() -> None:
     source = download_source()
     converted, programmes, timestamps = convert_xml(source)
+    aliases: dict[str, str] = {}
+    if playlist_url := os.environ.get("PLAYLIST_URL"):
+        converted, aliases = apply_playlist_aliases(converted, download_playlist(playlist_url))
     if not converted.lstrip().startswith("<?xml") or "<tv" not in converted[:1000]:
         raise ValueError("Downloaded content is not recognised as XMLTV")
     write_outputs(converted)
     print(
         f"Generated {OUTPUT_XML} ({OUTPUT_XML.stat().st_size:,} bytes) and "
         f"{OUTPUT_GZIP} ({OUTPUT_GZIP.stat().st_size:,} bytes); "
-        f"converted {timestamps:,} timestamps in {programmes:,} programmes."
+        f"converted {timestamps:,} timestamps in {programmes:,} programmes; "
+        f"added {len(aliases):,} playlist aliases."
     )
 
 

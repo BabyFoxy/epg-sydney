@@ -11,6 +11,11 @@ The converter respects an explicit source offset such as `+0800`, `+00:00`, or
 `Z`. If a source timestamp has no offset, it is interpreted as
 `Asia/Shanghai`, matching the upstream feed's Chinese schedule.
 
+When the repository's `PLAYLIST_URL` Actions secret is configured, the updater
+also reads only the M3U `#EXTINF` metadata and creates XMLTV aliases for
+unambiguous channel-name matches. The playlist URL and stream URLs are never
+committed to this public repository.
+
 The files are refreshed every two hours by GitHub Actions and can also be
 refreshed with the **Run workflow** button.
 
