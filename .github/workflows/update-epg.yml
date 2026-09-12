@@ -1,0 +1,43 @@
+name: Update Sydney EPG
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-epg
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run conversion tests
+        run: python -m unittest discover -s tests -p 'test_*.py'
+
+      - name: Download and convert EPG
+        run: python convert_epg.py
+
+      - name: Commit changed EPG files
+        run: |
+          git config user.name "EPG Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/epg.xml docs/epg.xml.gz
+          if git diff --cached --quiet; then
+            echo "No EPG changes"
+            exit 0
+          fi
+          git commit -m "Update Sydney EPG"
+          git push
