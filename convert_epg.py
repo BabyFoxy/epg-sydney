@@ -62,6 +62,12 @@ CCTV_MAIN_SUFFIXES = {
     "音乐",
     "农业农村",
 }
+PLAYLIST_NAME_OVERRIDES = {
+    "cctv5p": ("cctv5+", "cctv5plus"),
+    "cgtnen": ("cgtn英语",),
+    "cgtnfrench": ("cgtn法语",),
+    "cgtnsp": ("cgtn西班牙语",),
+}
 
 
 def parse_xmltv_timestamp(value: str) -> datetime:
@@ -158,6 +164,16 @@ def replace_attribute(tag: str, name: str, value: str) -> str:
     return pattern.sub(lambda match: f"{match.group(1)}{match.group(2)}{escaped}{match.group(2)}", tag, count=1)
 
 
+def add_display_name(channel_block: str, display_name: str) -> str:
+    """Append an alias display-name to cover players that match names, not IDs."""
+
+    closing_match = re.search(r"</channel\s*>", channel_block, re.IGNORECASE)
+    if not closing_match:
+        raise ValueError("Invalid XMLTV channel block")
+    display = f"<display-name>{escape(display_name)}</display-name>"
+    return f"{channel_block[:closing_match.start()]}{display}{channel_block[closing_match.start():]}"
+
+
 def normalise_channel_name(value: str) -> str:
     """Normalise superficial spelling differences without translating channel names."""
 
@@ -207,19 +223,21 @@ def resolve_playlist_name(name: str, lookup: dict[str, str]) -> str | None:
 
     candidate = normalise_channel_name(name)
     candidates = [candidate]
-    for suffix in ("av3a", "mcp"):
-        if candidate.endswith(suffix):
-            candidates.append(candidate[: -len(suffix)])
+    stripped = candidate
+    for suffix in ("av3a", "mcp", "hdr"):
+        if stripped.endswith(suffix):
+            stripped = stripped[: -len(suffix)]
+            candidates.append(stripped)
 
-    # Provider shorthand for CCTV5+.
-    if candidate == "cctv5p":
-        candidates.extend(("cctv5+", "cctv5plus"))
+    # Known provider spellings that differ from the XMLTV source names.
+    for item in tuple(candidates):
+        candidates.extend(PLAYLIST_NAME_OVERRIDES.get(item, ()))
 
     # Common official CCTV labels, e.g. CCTV1综合 -> CCTV1.
     match = re.fullmatch(r"cctv(\d+)([\u4e00-\u9fff]+)", candidate)
     if match and match.group(2) in CCTV_MAIN_SUFFIXES:
         candidates.append(f"cctv{match.group(1)}")
-    if candidate == "cctv5+体育赛事":
+    if stripped == "cctv5+体育赛事":
         candidates.extend(("cctv5+", "cctv5plus"))
 
     for item in candidates:
@@ -253,7 +271,7 @@ def apply_playlist_aliases(xml: str, playlist: str) -> tuple[str, dict[str, str]
         channel_block = channel_blocks.get(target)
         if not channel_block:
             continue
-        additions.append(replace_attribute(channel_block, "id", alias))
+        additions.append(add_display_name(replace_attribute(channel_block, "id", alias), alias))
         additions.extend(
             replace_attribute(programme, "channel", alias)
             for programme in programmes_by_channel.get(target, [])

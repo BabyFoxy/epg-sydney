@@ -53,6 +53,7 @@ class TimestampConversionTests(unittest.TestCase):
         converted, aliases = apply_playlist_aliases(xml, playlist)
         self.assertEqual(aliases, {"cctv1-AV3A": "CCTV1"})
         self.assertIn('<channel id="cctv1-AV3A">', converted)
+        self.assertIn('<display-name>cctv1-AV3A</display-name>', converted)
         self.assertIn('<programme channel="cctv1-AV3A"', converted)
 
 
