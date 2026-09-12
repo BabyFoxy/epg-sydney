@@ -27,6 +27,7 @@ The always-available raw URL is:
 
 ```text
 https://raw.githubusercontent.com/BabyFoxy/epg-sydney/main/docs/epg.xml
+https://raw.githubusercontent.com/BabyFoxy/epg-sydney/main/docs/epg.xml.gz
 ```
 
 ## Local checks
