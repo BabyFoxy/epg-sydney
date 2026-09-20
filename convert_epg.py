@@ -7,6 +7,7 @@ import gzip
 import io
 import os
 import re
+import time
 import urllib.request
 import unicodedata
 from collections import defaultdict
@@ -22,6 +23,9 @@ OUTPUT_GZIP = Path("docs/epg.xml.gz")
 
 SOURCE_DEFAULT_TZ = ZoneInfo("Asia/Shanghai")
 TARGET_TZ = ZoneInfo("Australia/Sydney")
+DOWNLOAD_ATTEMPTS = 4
+DOWNLOAD_TIMEOUT_SECONDS = 120
+RETRY_DELAY_SECONDS = 2
 
 # XMLTV commonly uses 12 or 14 digits followed by an optional offset such as
 # +0800.  A missing offset is legal in some feeds; this project treats it as
@@ -285,23 +289,39 @@ def apply_playlist_aliases(xml: str, playlist: str) -> tuple[str, dict[str, str]
     return f"{xml[:closing_index]}\n{additions_xml}\n{xml[closing_index:]}", aliases
 
 
+def download_text(url: str, *, label: str, user_agent: str) -> str:
+    """Download a feed with bounded retries for transient network failures."""
+
+    request = urllib.request.Request(url, headers={"User-Agent": user_agent})
+    last_error: OSError | None = None
+    for attempt in range(1, DOWNLOAD_ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=DOWNLOAD_TIMEOUT_SECONDS) as response:
+                return response.read().decode("utf-8", errors="replace")
+        except OSError as error:
+            last_error = error
+            if attempt < DOWNLOAD_ATTEMPTS:
+                time.sleep(RETRY_DELAY_SECONDS * attempt)
+
+    raise RuntimeError(
+        f"{label} download failed after {DOWNLOAD_ATTEMPTS} attempts"
+    ) from last_error
+
+
 def download_source() -> str:
-    request = urllib.request.Request(
+    return download_text(
         SOURCE_URL,
-        headers={"User-Agent": "epg-sydney/1.0 (+https://github.com/BabyFoxy/epg-sydney)"},
+        label="XMLTV source",
+        user_agent="epg-sydney/1.0 (+https://github.com/BabyFoxy/epg-sydney)",
     )
-    with urllib.request.urlopen(request, timeout=120) as response:
-        return response.read().decode("utf-8", errors="replace")
 
 
 def download_playlist(url: str) -> str:
     """Download an M3U source without ever printing its potentially private URL."""
 
-    request = urllib.request.Request(url, headers={"User-Agent": "epg-sydney/1.0"})
     try:
-        with urllib.request.urlopen(request, timeout=120) as response:
-            return response.read().decode("utf-8", errors="replace")
-    except OSError as error:
+        return download_text(url, label="Playlist", user_agent="epg-sydney/1.0")
+    except RuntimeError as error:
         raise RuntimeError("Playlist download failed") from error
 
 

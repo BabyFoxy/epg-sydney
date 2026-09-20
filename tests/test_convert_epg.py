@@ -1,6 +1,12 @@
 import unittest
+from unittest.mock import MagicMock, patch
 
-from convert_epg import apply_playlist_aliases, convert_xml, format_sydney_timestamp
+from convert_epg import (
+    apply_playlist_aliases,
+    convert_xml,
+    download_source,
+    format_sydney_timestamp,
+)
 
 
 class TimestampConversionTests(unittest.TestCase):
@@ -55,6 +61,17 @@ class TimestampConversionTests(unittest.TestCase):
         self.assertIn('<channel id="cctv1-AV3A">', converted)
         self.assertIn('<display-name>cctv1-AV3A</display-name>', converted)
         self.assertIn('<programme channel="cctv1-AV3A"', converted)
+
+    @patch("convert_epg.time.sleep")
+    @patch("convert_epg.urllib.request.urlopen")
+    def test_source_download_retries_after_connection_reset(self, urlopen, sleep):
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = b"<tv></tv>"
+        urlopen.side_effect = [ConnectionResetError("reset"), response]
+
+        self.assertEqual(download_source(), "<tv></tv>")
+        self.assertEqual(urlopen.call_count, 2)
+        sleep.assert_called_once_with(2)
 
 
 if __name__ == "__main__":
