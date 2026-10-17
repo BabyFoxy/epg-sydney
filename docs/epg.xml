@@ -834,341 +834,1790 @@
 	<programme channel="4K少儿专区" start="20261017025500 +1100" stop="20261016030700 +1100">
 		<title lang="zh">阿优之神奇萝卜第二季[15]</title>
 	</programme>
-	<channel id="4K纪实专区">
+	<channel id="4K纪实">
+		<display-name lang="zh">4K纪实</display-name>
+	</channel>
+	<channel id="4K纪实">
 		<display-name lang="zh">4K纪实专区</display-name>
 	</channel>
-	<programme channel="4K纪实专区" start="20261011141500 +1100" stop="20261011150300 +1100">
-		<title lang="zh">假如动物会摄影　第一季[3]：欧�...</title>
+	<programme channel="4K纪实" start="20261011030000 +1100" stop="20261011120500 +1100">
+		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011150300 +1100" stop="20261011155100 +1100">
-		<title lang="zh">假如动物会摄影　第一季[2]：猎�...</title>
+	<programme channel="4K纪实" start="20261011120500 +1100" stop="20261011121800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇57非洲夜已深人生地不熟我们能安全的找到住宿吗</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011155100 +1100" stop="20261011163900 +1100">
-		<title lang="zh">假如动物会摄影　第一季[1]：黑�...</title>
+	<programme channel="4K纪实" start="20261011121800 +1100" stop="20261011122900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇58白人的旅馆黑人的渔船大家的马拉维湖</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011163900 +1100" stop="20261011172800 +1100">
-		<title lang="zh">假如动物会摄影　第一季[3]：欧�...</title>
+	<programme channel="4K纪实" start="20261011122900 +1100" stop="20261011123700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇59把抱怨留在马拉维湖的沙滩上继续前行</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011172800 +1100" stop="20261011181600 +1100">
-		<title lang="zh">假如动物会摄影　第一季[2]：猎�...</title>
+	<programme channel="4K纪实" start="20261011123700 +1100" stop="20261011124800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇60湖边的小村庄</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011181600 +1100" stop="20261011190400 +1100">
-		<title lang="zh">假如动物会摄影　第一季[1]：黑�...</title>
+	<programme channel="4K纪实" start="20261011124800 +1100" stop="20261011130100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇61非洲人如何盖房子</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011190400 +1100" stop="20261011195200 +1100">
-		<title lang="zh">假如动物会摄影　第一季[3]：欧�...</title>
+	<programme channel="4K纪实" start="20261011130100 +1100" stop="20261011131500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇62非洲乡村的路边摊</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011195200 +1100" stop="20261011204000 +1100">
-		<title lang="zh">假如动物会摄影　第一季[2]：猎�...</title>
+	<programme channel="4K纪实" start="20261011131500 +1100" stop="20261011133100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇63非洲马拉维两湖之间的小镇走私车云集</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011204000 +1100" stop="20261011212800 +1100">
-		<title lang="zh">假如动物会摄影　第一季[1]：黑�...</title>
+	<programme channel="4K纪实" start="20261011133100 +1100" stop="20261011134500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇64马拉维城市之间的道路</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011212800 +1100" stop="20261011221600 +1100">
-		<title lang="zh">假如动物会摄影　第一季[3]：欧�...</title>
+	<programme channel="4K纪实" start="20261011134500 +1100" stop="20261011135600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇65多年以后再次来到河马旅馆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011221600 +1100" stop="20261011230400 +1100">
-		<title lang="zh">假如动物会摄影　第一季[2]：猎�...</title>
+	<programme channel="4K纪实" start="20261011135600 +1100" stop="20261011140700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇66与几个老婆的印度人一起游非洲河流</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011230400 +1100" stop="20261011235200 +1100">
-		<title lang="zh">假如动物会摄影　第一季[1]：黑�...</title>
+	<programme channel="4K纪实" start="20261011140700 +1100" stop="20261011141700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇67体验一下非洲马拉维的河马旅馆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261011235200 +1100" stop="20261012004100 +1100">
-		<title lang="zh">假如动物会摄影　第一季[3]：欧�...</title>
+	<programme channel="4K纪实" start="20261011141700 +1100" stop="20261011142900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇68出发去非洲的国家公园我们做了什么准备</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261012004100 +1100" stop="20261012012900 +1100">
-		<title lang="zh">假如动物会摄影　第一季[2]：猎�...</title>
+	<programme channel="4K纪实" start="20261011142900 +1100" stop="20261011144400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇69阔别5年再次来到了非洲利翁代国家公园</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261012012900 +1100" stop="20261012021700 +1100">
-		<title lang="zh">假如动物会摄影　第一季[1]：黑�...</title>
+	<programme channel="4K纪实" start="20261011144400 +1100" stop="20261011150200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇70深入利翁代国家公园腹地</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261012021700 +1100" stop="20261011030500 +1100">
-		<title lang="zh">假如动物会摄影　第一季[2]：猎�...</title>
+	<programme channel="4K纪实" start="20261011150200 +1100" stop="20261011151100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇71非洲农村的自行车停车场生意</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261012203200 +1100" stop="20261012213000 +1100">
-		<title lang="zh">行星第一季[4]</title>
+	<programme channel="4K纪实" start="20261011151100 +1100" stop="20261011152100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇72黑人农村盖房子自己路边烧砖几十万块</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261012213000 +1100" stop="20261012222900 +1100">
-		<title lang="zh">行星第一季[5]</title>
+	<programme channel="4K纪实" start="20261011152100 +1100" stop="20261011153400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇73在马拉维的老首都松巴寻找可以住的地方</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261012222900 +1100" stop="20261012232700 +1100">
-		<title lang="zh">行星第一季[1]</title>
+	<programme channel="4K纪实" start="20261011153400 +1100" stop="20261011155500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇74在非洲被太阳鸟旅馆骗到了山顶上</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261012232700 +1100" stop="20261013002500 +1100">
-		<title lang="zh">行星第一季[2]</title>
+	<programme channel="4K纪实" start="20261011155500 +1100" stop="20261011160500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇75一晚上1000多人民币的非洲太阳鸟山顶豪华旅馆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013002500 +1100" stop="20261013012300 +1100">
-		<title lang="zh">行星第一季[3]</title>
+	<programme channel="4K纪实" start="20261011160500 +1100" stop="20261011161600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇76非洲的蜗牛也真的是大啊</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013012300 +1100" stop="20261013022100 +1100">
-		<title lang="zh">行星第一季[4]</title>
+	<programme channel="4K纪实" start="20261011161600 +1100" stop="20261011162800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇77松巴山上的水库</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013022100 +1100" stop="20261012032000 +1100">
-		<title lang="zh">行星第一季[5]</title>
+	<programme channel="4K纪实" start="20261011162800 +1100" stop="20261011163800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇78非洲开车去瀑布一路见到不少人扛着木头下山</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013205600 +1100" stop="20261013210600 +1100">
-		<title lang="zh">自然界进化秘密大起底[4]</title>
+	<programme channel="4K纪实" start="20261011163800 +1100" stop="20261011164800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇79非洲山间的瀑布</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013210600 +1100" stop="20261013211600 +1100">
-		<title lang="zh">自然界进化秘密大起底[5]</title>
+	<programme channel="4K纪实" start="20261011164800 +1100" stop="20261011165500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇80马拉维老首都松巴的DHL国内发件只要5块钱人民币</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013211600 +1100" stop="20261013212800 +1100">
-		<title lang="zh">自然界进化秘密大起底[6]</title>
+	<programme channel="4K纪实" start="20261011165500 +1100" stop="20261011170600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇81采访松巴的国际学校</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013212800 +1100" stop="20261013213900 +1100">
-		<title lang="zh">自然界进化秘密大起底[7]</title>
+	<programme channel="4K纪实" start="20261011170600 +1100" stop="20261011171900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇82非洲国际学校的教室和操场</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013213900 +1100" stop="20261013220200 +1100">
-		<title lang="zh">自然界进化秘密大起底[8]</title>
+	<programme channel="4K纪实" start="20261011171900 +1100" stop="20261011173300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇83中国人在非洲小城市开店</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013220200 +1100" stop="20261013221900 +1100">
-		<title lang="zh">自然界进化秘密大起底[1]</title>
+	<programme channel="4K纪实" start="20261011173300 +1100" stop="20261011174000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇84非洲当地的汉堡快餐店</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013221900 +1100" stop="20261013223800 +1100">
-		<title lang="zh">自然界进化秘密大起底[2]</title>
+	<programme channel="4K纪实" start="20261011174000 +1100" stop="20261011175200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇85过去尘封在纪念塔里未来已经破土而生</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013223800 +1100" stop="20261013224900 +1100">
-		<title lang="zh">自然界进化秘密大起底[3]</title>
+	<programme channel="4K纪实" start="20261011175200 +1100" stop="20261011180200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇86终于来到了非洲马拉维的布兰太尔</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013224900 +1100" stop="20261013225900 +1100">
-		<title lang="zh">自然界进化秘密大起底[4]</title>
+	<programme channel="4K纪实" start="20261011180200 +1100" stop="20261011181100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇87深夜寻找旅馆乱入一家黑漆漆的民宅</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013225900 +1100" stop="20261013230800 +1100">
-		<title lang="zh">自然界进化秘密大起底[5]</title>
+	<programme channel="4K纪实" start="20261011181100 +1100" stop="20261011182600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇88布兰太尔的一家不错的白人旅馆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013230800 +1100" stop="20261013232000 +1100">
-		<title lang="zh">自然界进化秘密大起底[6]</title>
+	<programme channel="4K纪实" start="20261011182600 +1100" stop="20261011183600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇89布兰太尔最好吃的牛排</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013232000 +1100" stop="20261013233100 +1100">
-		<title lang="zh">自然界进化秘密大起底[7]</title>
+	<programme channel="4K纪实" start="20261011183600 +1100" stop="20261011184800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇90采访在非洲马拉维扎根的白人</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013233100 +1100" stop="20261013235400 +1100">
-		<title lang="zh">自然界进化秘密大起底[8]</title>
+	<programme channel="4K纪实" start="20261011184800 +1100" stop="20261011190100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇91开车看看布兰太尔的城市风光</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261013235400 +1100" stop="20261014001100 +1100">
-		<title lang="zh">自然界进化秘密大起底[1]</title>
+	<programme channel="4K纪实" start="20261011190100 +1100" stop="20261011191400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇92寻找从airbnb定的民宿</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014001100 +1100" stop="20261014003000 +1100">
-		<title lang="zh">自然界进化秘密大起底[2]</title>
+	<programme channel="4K纪实" start="20261011191400 +1100" stop="20261011192400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇93大大的世界小小的两间房</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014003000 +1100" stop="20261014004100 +1100">
-		<title lang="zh">自然界进化秘密大起底[3]</title>
+	<programme channel="4K纪实" start="20261011192400 +1100" stop="20261011193700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇94为了拍非洲纪录片蹭饭蹭到了商会会长的头上</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014004100 +1100" stop="20261014005100 +1100">
-		<title lang="zh">自然界进化秘密大起底[4]</title>
+	<programme channel="4K纪实" start="20261011193700 +1100" stop="20261011195000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇95非洲马拉维据说最好的西餐厅</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014005100 +1100" stop="20261014010000 +1100">
-		<title lang="zh">自然界进化秘密大起底[5]</title>
+	<programme channel="4K纪实" start="20261011195000 +1100" stop="20261011200000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇96每一天吃完早饭你的人生之路又将是新的开始</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014010000 +1100" stop="20261014011300 +1100">
-		<title lang="zh">自然界进化秘密大起底[6]</title>
+	<programme channel="4K纪实" start="20261011200000 +1100" stop="20261011201100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇97非洲商业街上的各种生意</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014011300 +1100" stop="20261014012300 +1100">
-		<title lang="zh">自然界进化秘密大起底[7]</title>
+	<programme channel="4K纪实" start="20261011201100 +1100" stop="20261011202000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇98为什么产糖的马拉维市场上总是买不到糖</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014012300 +1100" stop="20261014014600 +1100">
-		<title lang="zh">自然界进化秘密大起底[8]</title>
+	<programme channel="4K纪实" start="20261011202000 +1100" stop="20261011203300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇99集涉险拍摄非洲黑人当地人市场</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014014600 +1100" stop="20261014020300 +1100">
-		<title lang="zh">自然界进化秘密大起底[1]</title>
+	<programme channel="4K纪实" start="20261011203300 +1100" stop="20261011204400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇100当地人都吃什么呢300元一个月怎么吃得饱呢</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014020300 +1100" stop="20261014022200 +1100">
-		<title lang="zh">自然界进化秘密大起底[2]</title>
+	<programme channel="4K纪实" start="20261011204400 +1100" stop="20261011205400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇101中国老板与当地黑人工人的故事</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014022200 +1100" stop="20261014023300 +1100">
-		<title lang="zh">自然界进化秘密大起底[3]</title>
+	<programme channel="4K纪实" start="20261011205400 +1100" stop="20261011205800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇102听听中国人眼里印度人在非洲的故事</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014023300 +1100" stop="20261014024300 +1100">
-		<title lang="zh">自然界进化秘密大起底[4]</title>
+	<programme channel="4K纪实" start="20261011205800 +1100" stop="20261011210700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇103非洲马拉维的故事</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014024300 +1100" stop="20261014025200 +1100">
-		<title lang="zh">自然界进化秘密大起底[5]</title>
+	<programme channel="4K纪实" start="20261011210700 +1100" stop="20261011211700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇104街边的垃圾桶为什么都是石头做的</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014025200 +1100" stop="20261013030500 +1100">
-		<title lang="zh">自然界进化秘密大起底[6]</title>
+	<programme channel="4K纪实" start="20261011211700 +1100" stop="20261011212500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇105印度人的糖厂和自行车店</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014143500 +1100" stop="20261014152500 +1100">
-		<title lang="zh">诺曼底：战士之地[3]</title>
+	<programme channel="4K纪实" start="20261011212500 +1100" stop="20261011213500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇106马拉维林贝的MUDI</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014152500 +1100" stop="20261014161400 +1100">
-		<title lang="zh">诺曼底：战士之地[1]</title>
+	<programme channel="4K纪实" start="20261011213500 +1100" stop="20261011214500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇107印度人在当地的学校和附近的工厂</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014161400 +1100" stop="20261014170300 +1100">
-		<title lang="zh">诺曼底：战士之地[2]</title>
+	<programme channel="4K纪实" start="20261011214500 +1100" stop="20261011215800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇108非洲买羊的市场和可以媲美肯德基的KIPS</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014170300 +1100" stop="20261014175300 +1100">
-		<title lang="zh">诺曼底：战士之地[3]</title>
+	<programme channel="4K纪实" start="20261011215800 +1100" stop="20261011220900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇109从南部布兰太尔一路开车回首都利隆圭</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014175300 +1100" stop="20261014184200 +1100">
-		<title lang="zh">诺曼底：战士之地[1]</title>
+	<programme channel="4K纪实" start="20261011220900 +1100" stop="20261011221800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇110停电的马拉维首都利隆圭错过的印度人采访</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014184200 +1100" stop="20261014193100 +1100">
-		<title lang="zh">诺曼底：战士之地[2]</title>
+	<programme channel="4K纪实" start="20261011221800 +1100" stop="20261011222000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇111中国人的夜生活</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014193100 +1100" stop="20261014202100 +1100">
-		<title lang="zh">诺曼底：战士之地[3]</title>
+	<programme channel="4K纪实" start="20261011222000 +1100" stop="20261011223000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇112马拉维中国人的周末去湖边吃烧烤</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014202100 +1100" stop="20261014211000 +1100">
-		<title lang="zh">诺曼底：战士之地[1]</title>
+	<programme channel="4K纪实" start="20261011223000 +1100" stop="20261011224100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇113非洲中国人湖边的烤肉</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014211000 +1100" stop="20261014215900 +1100">
-		<title lang="zh">诺曼底：战士之地[2]</title>
+	<programme channel="4K纪实" start="20261011224100 +1100" stop="20261011225400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇114黑人湖边的单身狗聚会</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014215900 +1100" stop="20261014224900 +1100">
-		<title lang="zh">诺曼底：战士之地[3]</title>
+	<programme channel="4K纪实" start="20261011225400 +1100" stop="20261011230500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇115遇到热情的印度人和黑人</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014224900 +1100" stop="20261014233800 +1100">
-		<title lang="zh">诺曼底：战士之地[1]</title>
+	<programme channel="4K纪实" start="20261011230500 +1100" stop="20261011231500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇116马拉维湖边黑人周末的休闲时光</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261014233800 +1100" stop="20261015002700 +1100">
-		<title lang="zh">诺曼底：战士之地[2]</title>
+	<programme channel="4K纪实" start="20261011231500 +1100" stop="20261011232600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇117从萨里玛开往恩科塔科塔遭遇的一场惨烈车祸</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015002700 +1100" stop="20261015011600 +1100">
-		<title lang="zh">诺曼底：战士之地[3]</title>
+	<programme channel="4K纪实" start="20261011232600 +1100" stop="20261011234000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇118非洲傍晚找民宿荒野之地遇到了坟墓</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015011600 +1100" stop="20261015020600 +1100">
-		<title lang="zh">诺曼底：战士之地[1]</title>
+	<programme channel="4K纪实" start="20261011234000 +1100" stop="20261011235300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇119深夜入驻非洲旅馆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015020600 +1100" stop="20261015025500 +1100">
-		<title lang="zh">诺曼底：战士之地[2]</title>
+	<programme channel="4K纪实" start="20261011235300 +1100" stop="20261012001000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇120入驻马拉维湖边的民宿遭遇大暴风雨</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015025500 +1100" stop="20261014034400 +1100">
-		<title lang="zh">诺曼底：战士之地[3]</title>
+	<programme channel="4K纪实" start="20261012001000 +1100" stop="20261012002500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇121看一看非洲的度假屋</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015205100 +1100" stop="20261015211400 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[4]</title>
+	<programme channel="4K纪实" start="20261012002500 +1100" stop="20261012004100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇122非洲人民吃什么看看他们怎么把大米加工出来的</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015211400 +1100" stop="20261015212900 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[5]</title>
+	<programme channel="4K纪实" start="20261012004100 +1100" stop="20261012005500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇123非洲小镇的啤酒厂</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015212900 +1100" stop="20261015213900 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[1]</title>
+	<programme channel="4K纪实" start="20261012005500 +1100" stop="20261012010800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇124湖边酒吧一顿慢慢的午餐</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015213900 +1100" stop="20261015215500 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[2]</title>
+	<programme channel="4K纪实" start="20261012010800 +1100" stop="20261012012100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇125非洲马拉维的糖厂甘蔗种植区</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015215500 +1100" stop="20261015220700 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[3]</title>
+	<programme channel="4K纪实" start="20261012012100 +1100" stop="20261012012700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇126在非洲乡镇遇到了当地大老板员工都蹲着和他说话</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015220700 +1100" stop="20261015223000 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[4]</title>
+	<programme channel="4K纪实" start="20261012012700 +1100" stop="20261012014900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇127人大老板热情的招待中国人</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015223000 +1100" stop="20261015224500 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[5]</title>
+	<programme channel="4K纪实" start="20261012014900 +1100" stop="20261012015600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇128非洲高档度假村实拍</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015224500 +1100" stop="20261015225500 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[1]</title>
+	<programme channel="4K纪实" start="20261012015600 +1100" stop="20261012020300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇129马拉维前议员讲述马拉维不为人知的故事</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015225500 +1100" stop="20261015231100 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[2]</title>
+	<programme channel="4K纪实" start="20261012020300 +1100" stop="20261012022100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇130非洲前议员的家</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015231100 +1100" stop="20261015232300 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[3]</title>
+	<programme channel="4K纪实" start="20261012022100 +1100" stop="20261012023700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇131黑人42亩湖边沙滩等待开发</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015232300 +1100" stop="20261015234600 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[4]</title>
+	<programme channel="4K纪实" start="20261012023700 +1100" stop="20261012025900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇132如何在非洲买地</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261015234600 +1100" stop="20261016000100 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[5]</title>
+	<programme channel="4K纪实" start="20261012030000 +1100" stop="20261012095900 +1100">
+		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016000100 +1100" stop="20261016001100 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[1]</title>
+	<programme channel="4K纪实" start="20261012095900 +1100" stop="20261012102800 +1100">
+		<title lang="zh">荒野游侠记茫崖特辑02穿越火星地表</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016001100 +1100" stop="20261016002700 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[2]</title>
+	<programme channel="4K纪实" start="20261012102800 +1100" stop="20261012105000 +1100">
+		<title lang="zh">荒野游侠记茫崖特辑03探秘大地之眼</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016002700 +1100" stop="20261016003900 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[3]</title>
+	<programme channel="4K纪实" start="20261012105000 +1100" stop="20261012105200 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳PasadenaFinal</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016003900 +1100" stop="20261016010200 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[4]</title>
+	<programme channel="4K纪实" start="20261012105200 +1100" stop="20261012105500 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳亨廷顿图书馆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016010200 +1100" stop="20261016011700 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[5]</title>
+	<programme channel="4K纪实" start="20261012105500 +1100" stop="20261012105900 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳加州理工</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016011700 +1100" stop="20261016012800 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[1]</title>
+	<programme channel="4K纪实" start="20261012105900 +1100" stop="20261012110300 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳市政厅</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016012800 +1100" stop="20261016014300 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[2]</title>
+	<programme channel="4K纪实" start="20261012110300 +1100" stop="20261012110700 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳伊顿山谷徒步</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016014300 +1100" stop="20261016015500 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[3]</title>
+	<programme channel="4K纪实" start="20261012110700 +1100" stop="20261012113700 +1100">
+		<title lang="zh">与非洲同行1</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016015500 +1100" stop="20261016021900 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[4]</title>
+	<programme channel="4K纪实" start="20261012113700 +1100" stop="20261012120700 +1100">
+		<title lang="zh">与非洲同行2</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016021900 +1100" stop="20261016023300 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[5]</title>
+	<programme channel="4K纪实" start="20261012120700 +1100" stop="20261012121800 +1100">
+		<title lang="zh">守艺中国之景德镇篇01柴烧匠人九烧薪火相传感受柴烧魅力</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016023300 +1100" stop="20261016024400 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[1]</title>
+	<programme channel="4K纪实" start="20261012121800 +1100" stop="20261012122900 +1100">
+		<title lang="zh">守艺中国之景德镇篇02釉下彩匠人滕道洋从紫藤到芭蕉梦寓蕉君宁静致远</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016024400 +1100" stop="20261016025900 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[2]</title>
+	<programme channel="4K纪实" start="20261012122900 +1100" stop="20261012123900 +1100">
+		<title lang="zh">守艺中国之景德镇篇03玲珑瓷匠人吕雅婷传承百年古法玲珑镂雕技艺</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016025900 +1100" stop="20261015031100 +1100">
-		<title lang="zh">突破：未来与科技的奇迹[3]</title>
+	<programme channel="4K纪实" start="20261012123900 +1100" stop="20261012125000 +1100">
+		<title lang="zh">守艺中国之景德镇篇0490后古陶瓷修复师李琳修旧如旧还原瓷器本来面貌</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016144900 +1100" stop="20261016152900 +1100">
-		<title lang="zh">荒野求生全明星第四季[3]</title>
+	<programme channel="4K纪实" start="20261012125000 +1100" stop="20261012130100 +1100">
+		<title lang="zh">守艺中国之景德镇篇05仿古瓷匠人李云数种陶瓷工艺汇于一瓷</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016152900 +1100" stop="20261016160200 +1100">
-		<title lang="zh">荒野求生全明星第四季[4]</title>
+	<programme channel="4K纪实" start="20261012130100 +1100" stop="20261012131500 +1100">
+		<title lang="zh">守艺中国之景德镇篇06传统柴窑匠人邵志彤传承古法柴窑之火</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016160200 +1100" stop="20261016163700 +1100">
-		<title lang="zh">荒野求生全明星第四季[5]</title>
+	<programme channel="4K纪实" start="20261012131500 +1100" stop="20261012132900 +1100">
+		<title lang="zh">守艺中国之景德镇篇07青花梅瓶匠人熊光鑫一位入世修行的陶瓷艺术家</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016163700 +1100" stop="20261016171700 +1100">
-		<title lang="zh">荒野求生全明星第四季[6]</title>
+	<programme channel="4K纪实" start="20261012132900 +1100" stop="20261012134200 +1100">
+		<title lang="zh">守艺中国之景德镇篇08扒花匠人张立粉彩扒花针尖儿的艺术</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016171700 +1100" stop="20261016175600 +1100">
-		<title lang="zh">荒野求生全明星第四季[7]</title>
+	<programme channel="4K纪实" start="20261012134200 +1100" stop="20261012135300 +1100">
+		<title lang="zh">守艺中国之景德镇篇09珐琅彩匠人覃淑琴造一尊智慧与艺术并存的佛像</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016175600 +1100" stop="20261016183700 +1100">
-		<title lang="zh">荒野求生全明星第四季[8]</title>
+	<programme channel="4K纪实" start="20261012135300 +1100" stop="20261012140500 +1100">
+		<title lang="zh">守艺中国之景德镇篇10现代陶艺雕塑匠人朱志远寻找理念与工艺的极致表达</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016183700 +1100" stop="20261016191700 +1100">
-		<title lang="zh">荒野求生全明星第四季[1]</title>
+	<programme channel="4K纪实" start="20261012140500 +1100" stop="20261012141700 +1100">
+		<title lang="zh">守艺中国之景德镇篇11陶瓷雕塑匠人谢成龙手工陶瓷雕塑中的泥性之美</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016191700 +1100" stop="20261016195700 +1100">
-		<title lang="zh">荒野求生全明星第四季[2]</title>
+	<programme channel="4K纪实" start="20261012141700 +1100" stop="20261012142800 +1100">
+		<title lang="zh">守艺中国之景德镇篇12雪景瓷板画匠人袁智勇釉彩工艺和绘画艺术的完美结合</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016195700 +1100" stop="20261016203700 +1100">
-		<title lang="zh">荒野求生全明星第四季[3]</title>
+	<programme channel="4K纪实" start="20261012142800 +1100" stop="20261012144000 +1100">
+		<title lang="zh">野心胡来决定去旅行第2季四川01</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016203700 +1100" stop="20261016211100 +1100">
-		<title lang="zh">荒野求生全明星第四季[4]</title>
+	<programme channel="4K纪实" start="20261012144000 +1100" stop="20261012145100 +1100">
+		<title lang="zh">野心胡来决定去旅行第2季四川02</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016211100 +1100" stop="20261016214600 +1100">
-		<title lang="zh">荒野求生全明星第四季[5]</title>
+	<programme channel="4K纪实" start="20261012145100 +1100" stop="20261012152100 +1100">
+		<title lang="zh">以器之名第1季瓷碎重圆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016214600 +1100" stop="20261016222600 +1100">
-		<title lang="zh">荒野求生全明星第四季[6]</title>
+	<programme channel="4K纪实" start="20261012152100 +1100" stop="20261012160100 +1100">
+		<title lang="zh">以器之名第1季景泰蓝</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016222600 +1100" stop="20261016230500 +1100">
-		<title lang="zh">荒野求生全明星第四季[7]</title>
+	<programme channel="4K纪实" start="20261012160100 +1100" stop="20261012163100 +1100">
+		<title lang="zh">以器之名第1季面中乾坤</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016230500 +1100" stop="20261016234500 +1100">
-		<title lang="zh">荒野求生全明星第四季[8]</title>
+	<programme channel="4K纪实" start="20261012163100 +1100" stop="20261012170100 +1100">
+		<title lang="zh">以器之名第1季神圣山水</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261016234500 +1100" stop="20261017002500 +1100">
-		<title lang="zh">荒野求生全明星第四季[1]</title>
+	<programme channel="4K纪实" start="20261012170100 +1100" stop="20261012173100 +1100">
+		<title lang="zh">以器之名第1季御作金漆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261017002500 +1100" stop="20261017010600 +1100">
-		<title lang="zh">荒野求生全明星第四季[2]</title>
+	<programme channel="4K纪实" start="20261012173100 +1100" stop="20261012180100 +1100">
+		<title lang="zh">以器之名第1季珍锡记忆</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261017010600 +1100" stop="20261017014600 +1100">
-		<title lang="zh">荒野求生全明星第四季[3]</title>
+	<programme channel="4K纪实" start="20261012180100 +1100" stop="20261012184100 +1100">
+		<title lang="zh">以器之名第1季砖雕张</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261017014600 +1100" stop="20261017021900 +1100">
-		<title lang="zh">荒野求生全明星第四季[4]</title>
+	<programme channel="4K纪实" start="20261012184100 +1100" stop="20261012190100 +1100">
+		<title lang="zh">自游观第2季丝绸之路01</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261017021900 +1100" stop="20261017025400 +1100">
-		<title lang="zh">荒野求生全明星第四季[5]</title>
+	<programme channel="4K纪实" start="20261012190100 +1100" stop="20261012192000 +1100">
+		<title lang="zh">自游观第2季丝绸之路02</title>
 	</programme>
-	<programme channel="4K纪实专区" start="20261017025400 +1100" stop="20261016033400 +1100">
-		<title lang="zh">荒野求生全明星第四季[6]</title>
+	<programme channel="4K纪实" start="20261012192000 +1100" stop="20261012194000 +1100">
+		<title lang="zh">自游观第2季丝绸之路03</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012194000 +1100" stop="20261012195700 +1100">
+		<title lang="zh">自游观第2季丝绸之路04</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012195700 +1100" stop="20261012202200 +1100">
+		<title lang="zh">自游观第2季丝绸之路05</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012202200 +1100" stop="20261012210900 +1100">
+		<title lang="zh">中国减贫密码</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012210900 +1100" stop="20261012212000 +1100">
+		<title lang="zh">一游记加拿大村</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012212000 +1100" stop="20261012213200 +1100">
+		<title lang="zh">一游记孙中山故居崖口村</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012213200 +1100" stop="20261012214300 +1100">
+		<title lang="zh">乡里乡玲01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012214300 +1100" stop="20261012215500 +1100">
+		<title lang="zh">乡里乡玲02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012215500 +1100" stop="20261012220600 +1100">
+		<title lang="zh">乡里乡玲03</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012220600 +1100" stop="20261012221600 +1100">
+		<title lang="zh">乡里乡玲04</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012221600 +1100" stop="20261012222500 +1100">
+		<title lang="zh">乡里乡玲05</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012222500 +1100" stop="20261012223600 +1100">
+		<title lang="zh">乡里乡玲06</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012223600 +1100" stop="20261012224800 +1100">
+		<title lang="zh">乡里乡玲07</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012224800 +1100" stop="20261012230000 +1100">
+		<title lang="zh">乡里乡玲08</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012230000 +1100" stop="20261012231300 +1100">
+		<title lang="zh">乡里乡玲09</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012231300 +1100" stop="20261012232300 +1100">
+		<title lang="zh">乡里乡玲10</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012232300 +1100" stop="20261012233500 +1100">
+		<title lang="zh">乡里乡玲11</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012233500 +1100" stop="20261012234800 +1100">
+		<title lang="zh">乡里乡玲12</title>
+	</programme>
+	<programme channel="4K纪实" start="20261012234800 +1100" stop="20261013000700 +1100">
+		<title lang="zh">乡里乡玲13</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013000700 +1100" stop="20261013002600 +1100">
+		<title lang="zh">乡里乡玲14</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013002600 +1100" stop="20261013004200 +1100">
+		<title lang="zh">珠宝背后的故事风生水自起张炳光</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013004200 +1100" stop="20261013010200 +1100">
+		<title lang="zh">珠宝背后的故事佛陀圣迹</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013010200 +1100" stop="20261013013200 +1100">
+		<title lang="zh">珠宝背后的故事行吟者</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013013200 +1100" stop="20261013014200 +1100">
+		<title lang="zh">珠宝背后的故事回归内在李仁平</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013014200 +1100" stop="20261013014800 +1100">
+		<title lang="zh">珠宝背后的故事疆域薛珺</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013014800 +1100" stop="20261013015800 +1100">
+		<title lang="zh">珠宝背后的故事老虎需要翅膀翅膀也需要老虎陈红卫</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013015800 +1100" stop="20261013021000 +1100">
+		<title lang="zh">珠宝背后的故事梦敦煌卢智勇</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013021000 +1100" stop="20261013022100 +1100">
+		<title lang="zh">珠宝背后的故事逆流之境刘文超</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013022100 +1100" stop="20261013023000 +1100">
+		<title lang="zh">珠宝背后的故事弄巧成拙程学林</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013023000 +1100" stop="20261013024000 +1100">
+		<title lang="zh">珠宝背后的故事让自然离你更近吴灶发</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013024000 +1100" stop="20261013025400 +1100">
+		<title lang="zh">珠宝背后的故事设计没有不二法门林弘裕</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013025400 +1100" stop="20261013025900 +1100">
+		<title lang="zh">珠宝背后的故事生命贵在探索苏洁锋</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013030000 +1100" stop="20261013095600 +1100">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013095600 +1100" stop="20261013101300 +1100">
+		<title lang="zh">五号车论东风风神AX7</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013101300 +1100" stop="20261013103500 +1100">
+		<title lang="zh">五号车论广汽传祺全新GA6</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013103500 +1100" stop="20261013105800 +1100">
+		<title lang="zh">五号车论哈弗F7x与GLC200轿跑SUV双车</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013105800 +1100" stop="20261013111300 +1100">
+		<title lang="zh">五号车论哈弗H4</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013111300 +1100" stop="20261013112800 +1100">
+		<title lang="zh">五号车论哈弗H6</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013112800 +1100" stop="20261013114400 +1100">
+		<title lang="zh">五号车论哈弗H6Coupe</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013114400 +1100" stop="20261013120100 +1100">
+		<title lang="zh">五号车论汉兰达</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013120100 +1100" stop="20261013121400 +1100">
+		<title lang="zh">五号车论唤醒记忆边缘的它</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013121400 +1100" stop="20261013122800 +1100">
+		<title lang="zh">五号车论竟然主打90后</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013122800 +1100" stop="20261013124500 +1100">
+		<title lang="zh">五号车论凯迪拉克XT4对比宝马X1</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013124500 +1100" stop="20261013130400 +1100">
+		<title lang="zh">五号车论林肯领航员</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013130400 +1100" stop="20261013131500 +1100">
+		<title lang="zh">五号车论林肯领航员新疆活动</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013131500 +1100" stop="20261013134200 +1100">
+		<title lang="zh">五号车论马自达CX5</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013134200 +1100" stop="20261013135800 +1100">
+		<title lang="zh">五号车论迈凯伦720S</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013135800 +1100" stop="20261013142800 +1100">
+		<title lang="zh">五号车论迈锐宝凯美瑞雅阁三车对比</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013142800 +1100" stop="20261013144000 +1100">
+		<title lang="zh">五号车论讴歌MDX</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013144000 +1100" stop="20261013145800 +1100">
+		<title lang="zh">五号车论起亚KX5对比RAV4</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013145800 +1100" stop="20261013151300 +1100">
+		<title lang="zh">五号车论斯巴鲁XV</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013151300 +1100" stop="20261013153400 +1100">
+		<title lang="zh">五号车论现代昂希诺对比CHR</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013153400 +1100" stop="20261013155700 +1100">
+		<title lang="zh">五号车论雪铁龙天逸对比CRV</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013155700 +1100" stop="20261013160600 +1100">
+		<title lang="zh">五号车论运动气质暖男觉悟</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013160600 +1100" stop="20261013162300 +1100">
+		<title lang="zh">五号车论长安CS75</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013162300 +1100" stop="20261013163600 +1100">
+		<title lang="zh">五号车论长安CS75PLUS</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013163600 +1100" stop="20261013165100 +1100">
+		<title lang="zh">最后的冒险岛留尼汪火山博物馆</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013165100 +1100" stop="20261013165600 +1100">
+		<title lang="zh">最后的冒险岛留尼汪潜水</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013165600 +1100" stop="20261013170000 +1100">
+		<title lang="zh">最后的冒险岛留尼汪探洞01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013170000 +1100" stop="20261013170900 +1100">
+		<title lang="zh">最后的冒险岛留尼汪探洞02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013170900 +1100" stop="20261013172300 +1100">
+		<title lang="zh">最后的冒险岛留尼汪徒步</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013172300 +1100" stop="20261013175300 +1100">
+		<title lang="zh">逐梦的声音第1季反光镜乐队01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013175300 +1100" stop="20261013182300 +1100">
+		<title lang="zh">逐梦的声音第1季反光镜乐队02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013182300 +1100" stop="20261013185300 +1100">
+		<title lang="zh">逐梦的声音第1季果味VC乐队01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013185300 +1100" stop="20261013192300 +1100">
+		<title lang="zh">逐梦的声音第1季果味VC乐队02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013192300 +1100" stop="20261013195300 +1100">
+		<title lang="zh">逐梦的声音第1季旅行团乐队01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013195300 +1100" stop="20261013202300 +1100">
+		<title lang="zh">逐梦的声音第1季旅行团乐队02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013202300 +1100" stop="20261013205300 +1100">
+		<title lang="zh">逐梦的声音第1季面孔乐队01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013205300 +1100" stop="20261013212300 +1100">
+		<title lang="zh">逐梦的声音第1季面孔乐队02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013212300 +1100" stop="20261013212700 +1100">
+		<title lang="zh">造物集第6季1滴胶项链</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013212700 +1100" stop="20261013213200 +1100">
+		<title lang="zh">造物集第6季2皮铃铛</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013213200 +1100" stop="20261013213500 +1100">
+		<title lang="zh">造物集第6季3粘土甜品派对</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013213500 +1100" stop="20261013213800 +1100">
+		<title lang="zh">造物集第6季4苔藓球盆栽</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013213800 +1100" stop="20261013214300 +1100">
+		<title lang="zh">造物集第6季5靛蓝扎染</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013214300 +1100" stop="20261013214600 +1100">
+		<title lang="zh">造物集第6季6香薰蜡片</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013214600 +1100" stop="20261013214900 +1100">
+		<title lang="zh">造物集第6季7珠绣胸针</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013214900 +1100" stop="20261013215200 +1100">
+		<title lang="zh">造物集第6季8不织布花环</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013215200 +1100" stop="20261013215500 +1100">
+		<title lang="zh">造物集第6季9墙壁开瓶器</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013215500 +1100" stop="20261013215800 +1100">
+		<title lang="zh">造物集第6季10梳妆台收纳盒</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013215800 +1100" stop="20261013220100 +1100">
+		<title lang="zh">造物集第6季11夏日水果钥匙链</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013220100 +1100" stop="20261013220500 +1100">
+		<title lang="zh">造物集第6季12不织布收纳筐</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013220500 +1100" stop="20261013220800 +1100">
+		<title lang="zh">造物集第6季13软陶多肉风铃</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013220800 +1100" stop="20261013221200 +1100">
+		<title lang="zh">造物集第6季14果冻蜡烛</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013221200 +1100" stop="20261013221400 +1100">
+		<title lang="zh">造物集第6季15治愈小夜灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013221400 +1100" stop="20261013221800 +1100">
+		<title lang="zh">造物集第6季16马赛克拼贴项链1</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013221800 +1100" stop="20261013222100 +1100">
+		<title lang="zh">造物集第6季17蜜桃冰冰</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013222100 +1100" stop="20261013222500 +1100">
+		<title lang="zh">造物集第6季18拼布单肩包</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013222500 +1100" stop="20261013222800 +1100">
+		<title lang="zh">造物集第6季19拼豆马里奥</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013222800 +1100" stop="20261013223100 +1100">
+		<title lang="zh">造物集第6季20毛线拓印抱枕</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013223100 +1100" stop="20261013223600 +1100">
+		<title lang="zh">造物集第6季21不织布手账本</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013223600 +1100" stop="20261013223900 +1100">
+		<title lang="zh">造物集第6季22银耳桃胶石榴汁</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013223900 +1100" stop="20261013224200 +1100">
+		<title lang="zh">造物集第6季23流沙手机壳</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013224200 +1100" stop="20261013224500 +1100">
+		<title lang="zh">造物集第6季24INS风卡纸灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013224500 +1100" stop="20261013225100 +1100">
+		<title lang="zh">造物集第6季25老屋</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013225100 +1100" stop="20261013225400 +1100">
+		<title lang="zh">造物集第6季26手织猫窝</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013225400 +1100" stop="20261013225800 +1100">
+		<title lang="zh">造物集第6季27扩香石</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013225800 +1100" stop="20261013230100 +1100">
+		<title lang="zh">造物集第6季28蘑菇灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013230100 +1100" stop="20261013230600 +1100">
+		<title lang="zh">造物集第6季29奥斯汀玫瑰</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013230600 +1100" stop="20261013230900 +1100">
+		<title lang="zh">造物集第6季30捕梦网</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013230900 +1100" stop="20261013231300 +1100">
+		<title lang="zh">造物集第6季31毛线果皮染</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013231300 +1100" stop="20261013231700 +1100">
+		<title lang="zh">造物集第6季32蒲公英灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013231700 +1100" stop="20261013232100 +1100">
+		<title lang="zh">造物集第6季33蛙蛙的存钱罐</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013232100 +1100" stop="20261013232500 +1100">
+		<title lang="zh">造物集第6季34uv胶星球</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013232500 +1100" stop="20261013232800 +1100">
+		<title lang="zh">造物集第6季35uv胶小伞首饰</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013232800 +1100" stop="20261013233100 +1100">
+		<title lang="zh">造物集第6季36卷饼笔袋</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013233100 +1100" stop="20261013233500 +1100">
+		<title lang="zh">造物集第6季37灯笼</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013233500 +1100" stop="20261013233800 +1100">
+		<title lang="zh">造物集第6季38版画</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013233800 +1100" stop="20261013234200 +1100">
+		<title lang="zh">造物集第6季39玫瑰刺绣</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013234200 +1100" stop="20261013234600 +1100">
+		<title lang="zh">造物集第6季40竹编灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013234600 +1100" stop="20261013234900 +1100">
+		<title lang="zh">造物集第6季41莲花灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013234900 +1100" stop="20261013235200 +1100">
+		<title lang="zh">造物集第6季42梦幻水晶石</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013235200 +1100" stop="20261013235600 +1100">
+		<title lang="zh">造物集第6季43皮具雪花</title>
+	</programme>
+	<programme channel="4K纪实" start="20261013235600 +1100" stop="20261014000000 +1100">
+		<title lang="zh">造物集第6季44印画蜡烛</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014000000 +1100" stop="20261014000800 +1100">
+		<title lang="zh">绽放白鹿原最后的铁匠千锤百炼造十八般兵器</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014000800 +1100" stop="20261014002000 +1100">
+		<title lang="zh">绽放痴迷古砖研茶海茶盘品味秦汉韵</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014002000 +1100" stop="20261014003300 +1100">
+		<title lang="zh">绽放大气磅礴壮书坛梅月堂主何伯群</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014003300 +1100" stop="20261014004400 +1100">
+		<title lang="zh">绽放感悟匠心泥塑大师苗春生再现关中情</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014004400 +1100" stop="20261014005400 +1100">
+		<title lang="zh">绽放葫芦上的奇迹雕刻大师绽放中国梦</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014005400 +1100" stop="20261014010400 +1100">
+		<title lang="zh">绽放陋室琴师秉匠心千把胡琴铸天籁</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014010400 +1100" stop="20261014011300 +1100">
+		<title lang="zh">绽放美女沙画创业忙花样人生别样红</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014011300 +1100" stop="20261014012200 +1100">
+		<title lang="zh">绽放千年造纸绝技将失传探访最后手工造纸老人张逢学</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014012200 +1100" stop="20261014013400 +1100">
+		<title lang="zh">绽放深耕花鸟六十载著书立说传国粹</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014013400 +1100" stop="20261014014700 +1100">
+		<title lang="zh">绽放书画人生献公益大爱仁者张文敏</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014014700 +1100" stop="20261014020000 +1100">
+		<title lang="zh">绽放砖雕舞者十六载重塑大唐梦王泰来</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014020000 +1100" stop="20261014022000 +1100">
+		<title lang="zh">相见恨晚八扇屏</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014022000 +1100" stop="20261014024000 +1100">
+		<title lang="zh">相见恨晚传统与现代</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014024000 +1100" stop="20261014025900 +1100">
+		<title lang="zh">相见恨晚点头数</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014030000 +1100" stop="20261014095300 +1100">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014095300 +1100" stop="20261014101200 +1100">
+		<title lang="zh">俯瞰青海第3季玉树</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014101200 +1100" stop="20261014102000 +1100">
+		<title lang="zh">暴走汽车第2季01四辆性能车春明山决战</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014102000 +1100" stop="20261014102800 +1100">
+		<title lang="zh">暴走汽车第2季02劳斯基开兰博基尼与神秘人上演跟踪戏</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014102800 +1100" stop="20261014103500 +1100">
+		<title lang="zh">暴走汽车第2季03比亚迪故障频出皆因神秘女子</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014103500 +1100" stop="20261014104600 +1100">
+		<title lang="zh">暴走汽车第2季04丰田GT86改装成AE86</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014104600 +1100" stop="20261014105600 +1100">
+		<title lang="zh">暴走汽车第2季05解密奇瑞发展历史</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014105600 +1100" stop="20261014110600 +1100">
+		<title lang="zh">暴走汽车第2季暴走汽车第二季正式起航啦</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014110600 +1100" stop="20261014112300 +1100">
+		<title lang="zh">跟我自驾游</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014112300 +1100" stop="20261014113100 +1100">
+		<title lang="zh">跟我自驾游</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014113100 +1100" stop="20261014114000 +1100">
+		<title lang="zh">跟我自驾游</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014114000 +1100" stop="20261014115100 +1100">
+		<title lang="zh">跟我自驾游</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014115100 +1100" stop="20261014120400 +1100">
+		<title lang="zh">跟我自驾游</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014120400 +1100" stop="20261014121700 +1100">
+		<title lang="zh">跟我自驾游</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014121700 +1100" stop="20261014123000 +1100">
+		<title lang="zh">跟我自驾游</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014123000 +1100" stop="20261014123800 +1100">
+		<title lang="zh">潜行家第1季1不能说的秘密</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014123800 +1100" stop="20261014124500 +1100">
+		<title lang="zh">潜行家第1季2带着妈妈去潜水</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014124500 +1100" stop="20261014125100 +1100">
+		<title lang="zh">潜行家第1季3超级玩家K先生</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014125100 +1100" stop="20261014130200 +1100">
+		<title lang="zh">潜行家第1季4意外的明天</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014130200 +1100" stop="20261014130900 +1100">
+		<title lang="zh">潜行家第1季5与伏特加的约会</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014130900 +1100" stop="20261014131500 +1100">
+		<title lang="zh">潜行家第1季6美人鱼养成记</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014131500 +1100" stop="20261014132100 +1100">
+		<title lang="zh">潜行家第1季7探洞的北京妞儿</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014132100 +1100" stop="20261014132700 +1100">
+		<title lang="zh">潜行家第1季8十指紧扣的责任</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014132700 +1100" stop="20261014133600 +1100">
+		<title lang="zh">潜行家第1季9用生命吐槽的妹子</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014133600 +1100" stop="20261014134300 +1100">
+		<title lang="zh">大兵的车奥迪A8L</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014134300 +1100" stop="20261014135200 +1100">
+		<title lang="zh">大兵的车奥迪Q5L</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014135200 +1100" stop="20261014140200 +1100">
+		<title lang="zh">大兵的车宝马X2</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014140200 +1100" stop="20261014141000 +1100">
+		<title lang="zh">大兵的车保时捷718</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014141000 +1100" stop="20261014142000 +1100">
+		<title lang="zh">大兵的车大众辉腾</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014142000 +1100" stop="20261014143000 +1100">
+		<title lang="zh">大兵的车房车</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014143000 +1100" stop="20261014144100 +1100">
+		<title lang="zh">大兵的车路虎卫士</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014144100 +1100" stop="20261014150300 +1100">
+		<title lang="zh">黄埔故事新说</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014150300 +1100" stop="20261014151400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇01如果你没有去过非洲就不会有完整的世界观</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014151400 +1100" stop="20261014152500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇02比5年前我们来非洲马拉维这里货币贬值了5倍</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014152500 +1100" stop="20261014153600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇03中国人不怕苦去非洲创业</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014153600 +1100" stop="20261014154700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇0450亩土地只花了100万人民币</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014154700 +1100" stop="20261014155800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇05非洲阿杰的家3000元的别墅堆满了货封着铁窗</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014155800 +1100" stop="20261014160800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇06中国人说给我来个888的车牌非洲人说没问题</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014160800 +1100" stop="20261014162100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇07在非洲中国人的笑容挂在脸上</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014162100 +1100" stop="20261014163200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇08中国人在非洲一天工作9个小时一周工作6天半</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014163200 +1100" stop="20261014164200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇09当地租辆车要花多少钱</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014164200 +1100" stop="20261014165200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇10一顿黑人烧烤可以解决多少问题</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014165200 +1100" stop="20261014170100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇11在非洲盖工厂相当于从中国搬个工厂过去</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014170100 +1100" stop="20261014171400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇12月收入300元的非洲人民吃什么存活下来</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014171400 +1100" stop="20261014172600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇13在非洲路边买一个西瓜多少钱可以搞定</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014172600 +1100" stop="20261014173600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇14误入一村庄被一大群女人围了起来</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014173600 +1100" stop="20261014174600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇15非洲路边结满了芒果只要1块钱1个</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014174600 +1100" stop="20261014175800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇16中国派来的韩国夫妇在非洲给小孩放电影</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014175800 +1100" stop="20261014181800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇17中国人非洲开餐馆CCTV也来采访</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014181800 +1100" stop="20261014183700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇18中国人在非洲的高档服装店</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014183700 +1100" stop="20261014184900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇19非洲一碗让人难忘的汤汁馄饨</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014184900 +1100" stop="20261014190100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇20非洲肯德基1000万的加盟费</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014190100 +1100" stop="20261014191200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇21非洲的芒果市场多得就像大米一样</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014191200 +1100" stop="20261014192200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇22在非洲飞无人机被索取钱财</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014192200 +1100" stop="20261014193100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇23非洲水果不称重一堆只要一块钱</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014193100 +1100" stop="20261014194500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇24非洲当地食物好吃可惜饭里有苍蝇</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014194500 +1100" stop="20261014195800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇25真实的非洲农村</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014195800 +1100" stop="20261014201300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇26洲农村粮食不敢卖</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014201300 +1100" stop="20261014202700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇27非洲农村人如果病了就卖只鸡卖只羊去买药</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014202700 +1100" stop="20261014204000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇28你想象的非洲古老民俗</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014204000 +1100" stop="20261014205000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇29黑人喜欢BMW但是都没人开</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014205000 +1100" stop="20261014210000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇30着几千万现金去银行是你害不害怕</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014210000 +1100" stop="20261014211500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇31非洲小店一坐就是10年</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014211500 +1100" stop="20261014213400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇32老司机非洲18分钟全程开车从汽车站开始了解非洲</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014213400 +1100" stop="20261014214300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇33非洲著名大型超市</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014214300 +1100" stop="20261014215400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇34非洲黑人卖黑手机</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014215400 +1100" stop="20261014220500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇35火遍朋友圈的非洲小视频</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014220500 +1100" stop="20261014222900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇36非洲二手车市场</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014222900 +1100" stop="20261014223900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇37采访非洲家具厂</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014223900 +1100" stop="20261014230100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇38非洲私立学校调查</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014230100 +1100" stop="20261014231300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇39一口气吃光非洲的螃蟹</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014231300 +1100" stop="20261014232300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇40一顿黑人烧烤加强版</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014232300 +1100" stop="20261014233300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇41在非洲如何成为一名优秀的吃瓜群众</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014233300 +1100" stop="20261014234200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇42这是我在国外见过最全的中国超市</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014234200 +1100" stop="20261014235400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇43飞飞在非洲过34岁生日</title>
+	</programme>
+	<programme channel="4K纪实" start="20261014235400 +1100" stop="20261015000300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇4460岁的黑人健美先生教中国女人健身</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015000300 +1100" stop="20261015001400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇45实拍非洲的刷墙广告</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015001400 +1100" stop="20261015003400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇46韩国帅帅的高中生们已经支援到了非洲马拉维</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015003400 +1100" stop="20261015004400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇47颜值重不重要</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015004400 +1100" stop="20261015005600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇48非洲高档的饭店也离不开苍蝇</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015005600 +1100" stop="20261015010900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇49中国人在非洲的修车厂</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015010900 +1100" stop="20261015011900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇50非洲破旧的轮胎店里张鹏飞请黑人吃棒棒糖</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015011900 +1100" stop="20261015012900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇51深夜的非洲屋里没有电却藏满了耗子</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015012900 +1100" stop="20261015013900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇52非洲马拉维的孔子学院</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015013900 +1100" stop="20261015015100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇53来自南非的奔驰古董卡车</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015015100 +1100" stop="20261015020200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇54万事万物皆是连接我想我的未来不是梦</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015020200 +1100" stop="20261015021300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇55非洲巨大淡水湖泊终于来到了马拉维湖</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015021300 +1100" stop="20261015022400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇56在非洲离开了180元的旅馆再也找不到这么便宜的了</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015022400 +1100" stop="20261015023700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇57非洲夜已深人生地不熟我们能安全的找到住宿吗</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015023700 +1100" stop="20261015024900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇58白人的旅馆黑人的渔船大家的马拉维湖</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015024900 +1100" stop="20261015025600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇59把抱怨留在马拉维湖的沙滩上继续前行</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015025600 +1100" stop="20261015025900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇60湖边的小村庄</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015030000 +1100" stop="20261015095600 +1100">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015095600 +1100" stop="20261015101000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇95非洲马拉维据说最好的西餐厅</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015101000 +1100" stop="20261015102000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇96每一天吃完早饭你的人生之路又将是新的开始</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015102000 +1100" stop="20261015103000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇97非洲商业街上的各种生意</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015103000 +1100" stop="20261015103900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇98为什么产糖的马拉维市场上总是买不到糖</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015103900 +1100" stop="20261015105200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇99集涉险拍摄非洲黑人当地人市场</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015105200 +1100" stop="20261015110300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇100当地人都吃什么呢300元一个月怎么吃得饱呢</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015110300 +1100" stop="20261015111300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇101中国老板与当地黑人工人的故事</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015111300 +1100" stop="20261015111700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇102听听中国人眼里印度人在非洲的故事</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015111700 +1100" stop="20261015112700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇103非洲马拉维的故事</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015112700 +1100" stop="20261015113600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇104街边的垃圾桶为什么都是石头做的</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015113600 +1100" stop="20261015114400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇105印度人的糖厂和自行车店</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015114400 +1100" stop="20261015115400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇106马拉维林贝的MUDI</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015115400 +1100" stop="20261015120400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇107印度人在当地的学校和附近的工厂</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015120400 +1100" stop="20261015121700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇108非洲买羊的市场和可以媲美肯德基的KIPS</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015121700 +1100" stop="20261015122800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇109从南部布兰太尔一路开车回首都利隆圭</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015122800 +1100" stop="20261015123700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇110停电的马拉维首都利隆圭错过的印度人采访</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015123700 +1100" stop="20261015123900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇111中国人的夜生活</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015123900 +1100" stop="20261015124900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇112马拉维中国人的周末去湖边吃烧烤</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015124900 +1100" stop="20261015130000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇113非洲中国人湖边的烤肉</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015130000 +1100" stop="20261015131300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇114黑人湖边的单身狗聚会</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015131300 +1100" stop="20261015132400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇115遇到热情的印度人和黑人</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015132400 +1100" stop="20261015133400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇116马拉维湖边黑人周末的休闲时光</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015133400 +1100" stop="20261015134500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇117从萨里玛开往恩科塔科塔遭遇的一场惨烈车祸</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015134500 +1100" stop="20261015135900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇118非洲傍晚找民宿荒野之地遇到了坟墓</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015135900 +1100" stop="20261015141200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇119深夜入驻非洲旅馆</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015141200 +1100" stop="20261015142900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇120入驻马拉维湖边的民宿遭遇大暴风雨</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015142900 +1100" stop="20261015144400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇121看一看非洲的度假屋</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015144400 +1100" stop="20261015150000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇122非洲人民吃什么看看他们怎么把大米加工出来的</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015150000 +1100" stop="20261015151400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇123非洲小镇的啤酒厂</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015151400 +1100" stop="20261015152700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇124湖边酒吧一顿慢慢的午餐</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015152700 +1100" stop="20261015154000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇125非洲马拉维的糖厂甘蔗种植区</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015154000 +1100" stop="20261015154700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇126在非洲乡镇遇到了当地大老板员工都蹲着和他说话</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015154700 +1100" stop="20261015160800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇127人大老板热情的招待中国人</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015160800 +1100" stop="20261015161500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇128非洲高档度假村实拍</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015161500 +1100" stop="20261015162200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇129马拉维前议员讲述马拉维不为人知的故事</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015162200 +1100" stop="20261015164000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇130非洲前议员的家</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015164000 +1100" stop="20261015165600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇131黑人42亩湖边沙滩等待开发</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015165600 +1100" stop="20261015172000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇132如何在非洲买地</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015172000 +1100" stop="20261015173200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇133非洲马拉维美丽的边境渔港小镇恩卡塔贝</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015173200 +1100" stop="20261015174800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇134非洲自驾游必备技能找旅馆逛超市做饭</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015174800 +1100" stop="20261015180400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇135非洲马拉维luwinga旅馆</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015180400 +1100" stop="20261015182200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇136非洲小旅馆老板背后的故事</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015182200 +1100" stop="20261015183800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇137在小镇姆祖祖听当地中国人聊马拉维和坦桑尼亚</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015183800 +1100" stop="20261015184700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇138一瓶药35元帮你搞定不强壮的问题</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015184700 +1100" stop="20261015191400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇139真实的马拉维姆祖祖听当地黑人介绍当地生活百态</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015191400 +1100" stop="20261015192900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇140在非洲马拉维姆祖祖中国人援建的医院让人自豪</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015192900 +1100" stop="20261015193800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇141非洲人的棋牌游戏</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015193800 +1100" stop="20261015195300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇142非洲当地的酒吧看老外如何搭讪</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015195300 +1100" stop="20261015200200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇143非洲姆祖祖当地人的生活</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015200200 +1100" stop="20261015201200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇144从姆祖祖开车到利隆圭</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015201200 +1100" stop="20261015202800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇145当地黑人是如何做晚饭的</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015202800 +1100" stop="20261015203800 +1100">
+		<title lang="zh">非洲调查报告马拉维篇146非洲特有的工艺品</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015203800 +1100" stop="20261015205000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇147非洲现场记录传遍朋友圈的非洲小视频</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015205000 +1100" stop="20261015205900 +1100">
+		<title lang="zh">非洲调查报告马拉维篇148中国人在非洲开的建材超市价格卖得怎么样</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015205900 +1100" stop="20261015210400 +1100">
+		<title lang="zh">非洲调查报告马拉维篇149无人机航拍主要是印度人居住的别墅区</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015210400 +1100" stop="20261015211200 +1100">
+		<title lang="zh">非洲调查报告马拉维篇150非洲的星期天保安黑人为老婆编辫子孩子在一旁玩耍</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015211200 +1100" stop="20261015212600 +1100">
+		<title lang="zh">非洲调查报告马拉维篇151非洲市场短缺水泥我们调查一番</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015212600 +1100" stop="20261015213500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇152非洲破旧的三层楼卖1000万</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015213500 +1100" stop="20261015214300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇153去非洲的中国人修车厂修车再去看中国人援建的当地设施</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015214300 +1100" stop="20261015215300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇154非洲人最爱的脏辫我们去当地的理发店来编一个</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015215300 +1100" stop="20261015220300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇155非洲黑人走到中国人面前鞠躬然后拿出了宝石</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015220300 +1100" stop="20261015221300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇156我们在非洲连无人机都带上了去寻找有没有卖老鼠肉吃的</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015221300 +1100" stop="20261015222300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇157非洲人成群结队走街串巷卖来自中国的二手鞋</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015222300 +1100" stop="20261015224100 +1100">
+		<title lang="zh">非洲调查报告马拉维篇158非洲与印度人的一顿晚餐</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015224100 +1100" stop="20261015225300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇159实拍中国人在非洲开得蜡烛厂</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015225300 +1100" stop="20261015230500 +1100">
+		<title lang="zh">非洲调查报告马拉维篇160中国人在非洲创业</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015230500 +1100" stop="20261015232000 +1100">
+		<title lang="zh">非洲调查报告马拉维篇161非洲的中国人货柜都是怎么装卸的</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015232000 +1100" stop="20261015233700 +1100">
+		<title lang="zh">非洲调查报告马拉维篇162要离开非洲马拉维了去纪念品市场看一下</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015233700 +1100" stop="20261015234300 +1100">
+		<title lang="zh">非洲调查报告马拉维篇163见了马拉维我们一个月的非洲之旅结束了</title>
+	</programme>
+	<programme channel="4K纪实" start="20261015234300 +1100" stop="20261016001800 +1100">
+		<title lang="zh">荒野游侠记茫崖特辑01迷失火星营地</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016001800 +1100" stop="20261016004700 +1100">
+		<title lang="zh">荒野游侠记茫崖特辑02穿越火星地表</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016004700 +1100" stop="20261016010900 +1100">
+		<title lang="zh">荒野游侠记茫崖特辑03探秘大地之眼</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016010900 +1100" stop="20261016011100 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳PasadenaFinal</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016011100 +1100" stop="20261016011400 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳亨廷顿图书馆</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016011400 +1100" stop="20261016011800 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳加州理工</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016011800 +1100" stop="20261016012200 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳市政厅</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016012200 +1100" stop="20261016012700 +1100">
+		<title lang="zh">美国文艺小镇帕萨迪纳伊顿山谷徒步</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016012700 +1100" stop="20261016015700 +1100">
+		<title lang="zh">与非洲同行1</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016015700 +1100" stop="20261016022700 +1100">
+		<title lang="zh">与非洲同行2</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016022700 +1100" stop="20261016023700 +1100">
+		<title lang="zh">守艺中国之景德镇篇01柴烧匠人九烧薪火相传感受柴烧魅力</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016023700 +1100" stop="20261016024800 +1100">
+		<title lang="zh">守艺中国之景德镇篇02釉下彩匠人滕道洋从紫藤到芭蕉梦寓蕉君宁静致远</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016024800 +1100" stop="20261016025900 +1100">
+		<title lang="zh">守艺中国之景德镇篇03玲珑瓷匠人吕雅婷传承百年古法玲珑镂雕技艺</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016025900 +1100" stop="20261016025900 +1100">
+		<title lang="zh">守艺中国之景德镇篇0490后古陶瓷修复师李琳修旧如旧还原瓷器本来面貌</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016030000 +1100" stop="20261016095900 +1100">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016095900 +1100" stop="20261016101600 +1100">
+		<title lang="zh">自游观第2季丝绸之路04</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016101600 +1100" stop="20261016104100 +1100">
+		<title lang="zh">自游观第2季丝绸之路05</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016104100 +1100" stop="20261016112800 +1100">
+		<title lang="zh">中国减贫密码</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016112800 +1100" stop="20261016113900 +1100">
+		<title lang="zh">一游记加拿大村</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016113900 +1100" stop="20261016115100 +1100">
+		<title lang="zh">一游记孙中山故居崖口村</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016115100 +1100" stop="20261016120200 +1100">
+		<title lang="zh">乡里乡玲01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016120200 +1100" stop="20261016121400 +1100">
+		<title lang="zh">乡里乡玲02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016121400 +1100" stop="20261016122500 +1100">
+		<title lang="zh">乡里乡玲03</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016122500 +1100" stop="20261016123500 +1100">
+		<title lang="zh">乡里乡玲04</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016123500 +1100" stop="20261016124500 +1100">
+		<title lang="zh">乡里乡玲05</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016124500 +1100" stop="20261016125500 +1100">
+		<title lang="zh">乡里乡玲06</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016125500 +1100" stop="20261016130700 +1100">
+		<title lang="zh">乡里乡玲07</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016130700 +1100" stop="20261016131900 +1100">
+		<title lang="zh">乡里乡玲08</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016131900 +1100" stop="20261016133200 +1100">
+		<title lang="zh">乡里乡玲09</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016133200 +1100" stop="20261016134200 +1100">
+		<title lang="zh">乡里乡玲10</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016134200 +1100" stop="20261016135400 +1100">
+		<title lang="zh">乡里乡玲11</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016135400 +1100" stop="20261016140700 +1100">
+		<title lang="zh">乡里乡玲12</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016140700 +1100" stop="20261016142700 +1100">
+		<title lang="zh">乡里乡玲13</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016142700 +1100" stop="20261016144500 +1100">
+		<title lang="zh">乡里乡玲14</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016144500 +1100" stop="20261016150200 +1100">
+		<title lang="zh">珠宝背后的故事风生水自起张炳光</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016150200 +1100" stop="20261016152100 +1100">
+		<title lang="zh">珠宝背后的故事佛陀圣迹</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016152100 +1100" stop="20261016155200 +1100">
+		<title lang="zh">珠宝背后的故事行吟者</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016155200 +1100" stop="20261016160100 +1100">
+		<title lang="zh">珠宝背后的故事回归内在李仁平</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016160100 +1100" stop="20261016160700 +1100">
+		<title lang="zh">珠宝背后的故事疆域薛珺</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016160700 +1100" stop="20261016161700 +1100">
+		<title lang="zh">珠宝背后的故事老虎需要翅膀翅膀也需要老虎陈红卫</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016161700 +1100" stop="20261016162900 +1100">
+		<title lang="zh">珠宝背后的故事梦敦煌卢智勇</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016162900 +1100" stop="20261016164100 +1100">
+		<title lang="zh">珠宝背后的故事逆流之境刘文超</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016164100 +1100" stop="20261016165000 +1100">
+		<title lang="zh">珠宝背后的故事弄巧成拙程学林</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016165000 +1100" stop="20261016170000 +1100">
+		<title lang="zh">珠宝背后的故事让自然离你更近吴灶发</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016170000 +1100" stop="20261016171400 +1100">
+		<title lang="zh">珠宝背后的故事设计没有不二法门林弘裕</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016171400 +1100" stop="20261016172200 +1100">
+		<title lang="zh">珠宝背后的故事生命贵在探索苏洁锋</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016172200 +1100" stop="20261016173000 +1100">
+		<title lang="zh">珠宝背后的故事未来所见即所得赖世洪</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016173000 +1100" stop="20261016174100 +1100">
+		<title lang="zh">珠宝背后的故事西方三圣</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016174100 +1100" stop="20261016175000 +1100">
+		<title lang="zh">珠宝背后的故事想像无限于晓红</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016175000 +1100" stop="20261016175700 +1100">
+		<title lang="zh">珠宝背后的故事形神兼备王焜</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016175700 +1100" stop="20261016181100 +1100">
+		<title lang="zh">珠宝背后的故事艺眼看透世界王可春</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016181100 +1100" stop="20261016181900 +1100">
+		<title lang="zh">珠宝背后的故事因为热爱所以专注王玉</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016181900 +1100" stop="20261016182700 +1100">
+		<title lang="zh">珠宝背后的故事珠宝价值观的传承孙倩</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016182700 +1100" stop="20261016182900 +1100">
+		<title lang="zh">南太平洋上的明珠斐济COLO徒步</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016182900 +1100" stop="20261016183200 +1100">
+		<title lang="zh">南太平洋上的明珠斐济博物馆</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016183200 +1100" stop="20261016183500 +1100">
+		<title lang="zh">南太平洋上的明珠斐济布拉汉堡</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016183500 +1100" stop="20261016183800 +1100">
+		<title lang="zh">南太平洋上的明珠斐济当地舞</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016183800 +1100" stop="20261016184000 +1100">
+		<title lang="zh">南太平洋上的明珠斐济卡瓦酒</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016184000 +1100" stop="20261016184100 +1100">
+		<title lang="zh">南太平洋上的明珠斐济楠迪SPA</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016184100 +1100" stop="20261016184400 +1100">
+		<title lang="zh">南太平洋上的明珠斐济鲨鱼潜水</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016184400 +1100" stop="20261016184500 +1100">
+		<title lang="zh">南太平洋上的明珠斐济食人族展览</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016184500 +1100" stop="20261016190500 +1100">
+		<title lang="zh">五号车论WEYVV6对比CRV途观L</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016190500 +1100" stop="20261016191800 +1100">
+		<title lang="zh">五号车论WEYP8</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016191800 +1100" stop="20261016192600 +1100">
+		<title lang="zh">五号车论安全相对论</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016192600 +1100" stop="20261016194100 +1100">
+		<title lang="zh">五号车论奥迪A6L</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016194100 +1100" stop="20261016195600 +1100">
+		<title lang="zh">五号车论奥迪A8L</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016195600 +1100" stop="20261016201000 +1100">
+		<title lang="zh">五号车论奥迪Q2L</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016201000 +1100" stop="20261016202500 +1100">
+		<title lang="zh">五号车论奥迪Q3</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016202500 +1100" stop="20261016204100 +1100">
+		<title lang="zh">五号车论奥迪Q5L</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016204100 +1100" stop="20261016205600 +1100">
+		<title lang="zh">五号车论保时捷卡宴</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016205600 +1100" stop="20261016211300 +1100">
+		<title lang="zh">五号车论奔驰CLS</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016211300 +1100" stop="20261016212700 +1100">
+		<title lang="zh">五号车论奔驰GLC300</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016212700 +1100" stop="20261016214100 +1100">
+		<title lang="zh">五号车论本田雅阁</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016214100 +1100" stop="20261016215600 +1100">
+		<title lang="zh">五号车论比速T5</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016215600 +1100" stop="20261016220600 +1100">
+		<title lang="zh">五号车论比亚迪宋MAXDM</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016220600 +1100" stop="20261016221900 +1100">
+		<title lang="zh">五号车论比亚迪宋ProDM</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016221900 +1100" stop="20261016223300 +1100">
+		<title lang="zh">五号车论比亚迪唐</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016223300 +1100" stop="20261016225200 +1100">
+		<title lang="zh">五号车论比亚迪唐VS传祺GS8</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016225200 +1100" stop="20261016231200 +1100">
+		<title lang="zh">五号车论标致408对比轩逸</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016231200 +1100" stop="20261016232600 +1100">
+		<title lang="zh">五号车论传祺GM8</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016232600 +1100" stop="20261016235100 +1100">
+		<title lang="zh">五号车论大众TCross对比本田XRV</title>
+	</programme>
+	<programme channel="4K纪实" start="20261016235100 +1100" stop="20261017000400 +1100">
+		<title lang="zh">五号车论大众朗逸对比宝来</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017000400 +1100" stop="20261017001600 +1100">
+		<title lang="zh">五号车论大众探歌</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017001600 +1100" stop="20261017003200 +1100">
+		<title lang="zh">五号车论东风风神AX7</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017003200 +1100" stop="20261017005400 +1100">
+		<title lang="zh">五号车论广汽传祺全新GA6</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017005400 +1100" stop="20261017011700 +1100">
+		<title lang="zh">五号车论哈弗F7x与GLC200轿跑SUV双车</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017011700 +1100" stop="20261017013300 +1100">
+		<title lang="zh">五号车论哈弗H4</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017013300 +1100" stop="20261017014700 +1100">
+		<title lang="zh">五号车论哈弗H6</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017014700 +1100" stop="20261017020300 +1100">
+		<title lang="zh">五号车论哈弗H6Coupe</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017020300 +1100" stop="20261017022000 +1100">
+		<title lang="zh">五号车论汉兰达</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017022000 +1100" stop="20261017023300 +1100">
+		<title lang="zh">五号车论唤醒记忆边缘的它</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017023300 +1100" stop="20261017024700 +1100">
+		<title lang="zh">五号车论竟然主打90后</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017024700 +1100" stop="20261017025900 +1100">
+		<title lang="zh">五号车论凯迪拉克XT4对比宝马X1</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017030000 +1100" stop="20261017030500 +1100">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017030500 +1100" stop="20261017032400 +1100">
+		<title lang="zh">五号车论林肯领航员</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017032400 +1100" stop="20261017033400 +1100">
+		<title lang="zh">五号车论林肯领航员新疆活动</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017033400 +1100" stop="20261017040200 +1100">
+		<title lang="zh">五号车论马自达CX5</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017040200 +1100" stop="20261017041700 +1100">
+		<title lang="zh">五号车论迈凯伦720S</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017041700 +1100" stop="20261017044700 +1100">
+		<title lang="zh">五号车论迈锐宝凯美瑞雅阁三车对比</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017044700 +1100" stop="20261017045900 +1100">
+		<title lang="zh">五号车论讴歌MDX</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017045900 +1100" stop="20261017051700 +1100">
+		<title lang="zh">五号车论起亚KX5对比RAV4</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017051700 +1100" stop="20261017053200 +1100">
+		<title lang="zh">五号车论斯巴鲁XV</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017053200 +1100" stop="20261017055400 +1100">
+		<title lang="zh">五号车论现代昂希诺对比CHR</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017055400 +1100" stop="20261017061600 +1100">
+		<title lang="zh">五号车论雪铁龙天逸对比CRV</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017061600 +1100" stop="20261017062500 +1100">
+		<title lang="zh">五号车论运动气质暖男觉悟</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017062500 +1100" stop="20261017064200 +1100">
+		<title lang="zh">五号车论长安CS75</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017064200 +1100" stop="20261017065500 +1100">
+		<title lang="zh">五号车论长安CS75PLUS</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017065500 +1100" stop="20261017071000 +1100">
+		<title lang="zh">最后的冒险岛留尼汪火山博物馆</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017071000 +1100" stop="20261017071500 +1100">
+		<title lang="zh">最后的冒险岛留尼汪潜水</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017071500 +1100" stop="20261017071900 +1100">
+		<title lang="zh">最后的冒险岛留尼汪探洞01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017071900 +1100" stop="20261017072800 +1100">
+		<title lang="zh">最后的冒险岛留尼汪探洞02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017072800 +1100" stop="20261017074200 +1100">
+		<title lang="zh">最后的冒险岛留尼汪徒步</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017074200 +1100" stop="20261017081200 +1100">
+		<title lang="zh">逐梦的声音第1季反光镜乐队01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017081200 +1100" stop="20261017084200 +1100">
+		<title lang="zh">逐梦的声音第1季反光镜乐队02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017084200 +1100" stop="20261017091200 +1100">
+		<title lang="zh">逐梦的声音第1季果味VC乐队01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017091200 +1100" stop="20261017094200 +1100">
+		<title lang="zh">逐梦的声音第1季果味VC乐队02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017094200 +1100" stop="20261017101200 +1100">
+		<title lang="zh">逐梦的声音第1季旅行团乐队01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017101200 +1100" stop="20261017104200 +1100">
+		<title lang="zh">逐梦的声音第1季旅行团乐队02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017104200 +1100" stop="20261017111200 +1100">
+		<title lang="zh">逐梦的声音第1季面孔乐队01</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017111200 +1100" stop="20261017114200 +1100">
+		<title lang="zh">逐梦的声音第1季面孔乐队02</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017114200 +1100" stop="20261017114600 +1100">
+		<title lang="zh">造物集第6季1滴胶项链</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017114600 +1100" stop="20261017115100 +1100">
+		<title lang="zh">造物集第6季2皮铃铛</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017115100 +1100" stop="20261017115400 +1100">
+		<title lang="zh">造物集第6季3粘土甜品派对</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017115400 +1100" stop="20261017115700 +1100">
+		<title lang="zh">造物集第6季4苔藓球盆栽</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017115700 +1100" stop="20261017120200 +1100">
+		<title lang="zh">造物集第6季5靛蓝扎染</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017120200 +1100" stop="20261017120500 +1100">
+		<title lang="zh">造物集第6季6香薰蜡片</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017120500 +1100" stop="20261017120900 +1100">
+		<title lang="zh">造物集第6季7珠绣胸针</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017120900 +1100" stop="20261017121200 +1100">
+		<title lang="zh">造物集第6季8不织布花环</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017121200 +1100" stop="20261017121400 +1100">
+		<title lang="zh">造物集第6季9墙壁开瓶器</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017121400 +1100" stop="20261017121700 +1100">
+		<title lang="zh">造物集第6季10梳妆台收纳盒</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017121700 +1100" stop="20261017122000 +1100">
+		<title lang="zh">造物集第6季11夏日水果钥匙链</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017122000 +1100" stop="20261017122400 +1100">
+		<title lang="zh">造物集第6季12不织布收纳筐</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017122400 +1100" stop="20261017122700 +1100">
+		<title lang="zh">造物集第6季13软陶多肉风铃</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017122700 +1100" stop="20261017123100 +1100">
+		<title lang="zh">造物集第6季14果冻蜡烛</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017123100 +1100" stop="20261017123400 +1100">
+		<title lang="zh">造物集第6季15治愈小夜灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017123400 +1100" stop="20261017123700 +1100">
+		<title lang="zh">造物集第6季16马赛克拼贴项链1</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017123700 +1100" stop="20261017124000 +1100">
+		<title lang="zh">造物集第6季17蜜桃冰冰</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017124000 +1100" stop="20261017124400 +1100">
+		<title lang="zh">造物集第6季18拼布单肩包</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017124400 +1100" stop="20261017124700 +1100">
+		<title lang="zh">造物集第6季19拼豆马里奥</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017124700 +1100" stop="20261017125000 +1100">
+		<title lang="zh">造物集第6季20毛线拓印抱枕</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017125000 +1100" stop="20261017125500 +1100">
+		<title lang="zh">造物集第6季21不织布手账本</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017125500 +1100" stop="20261017125800 +1100">
+		<title lang="zh">造物集第6季22银耳桃胶石榴汁</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017125800 +1100" stop="20261017130100 +1100">
+		<title lang="zh">造物集第6季23流沙手机壳</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017130100 +1100" stop="20261017130400 +1100">
+		<title lang="zh">造物集第6季24INS风卡纸灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017130400 +1100" stop="20261017131000 +1100">
+		<title lang="zh">造物集第6季25老屋</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017131000 +1100" stop="20261017131400 +1100">
+		<title lang="zh">造物集第6季26手织猫窝</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017131400 +1100" stop="20261017131700 +1100">
+		<title lang="zh">造物集第6季27扩香石</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017131700 +1100" stop="20261017132000 +1100">
+		<title lang="zh">造物集第6季28蘑菇灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017132000 +1100" stop="20261017132500 +1100">
+		<title lang="zh">造物集第6季29奥斯汀玫瑰</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017132500 +1100" stop="20261017132900 +1100">
+		<title lang="zh">造物集第6季30捕梦网</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017132900 +1100" stop="20261017133200 +1100">
+		<title lang="zh">造物集第6季31毛线果皮染</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017133200 +1100" stop="20261017133600 +1100">
+		<title lang="zh">造物集第6季32蒲公英灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017133600 +1100" stop="20261017134000 +1100">
+		<title lang="zh">造物集第6季33蛙蛙的存钱罐</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017134000 +1100" stop="20261017134400 +1100">
+		<title lang="zh">造物集第6季34uv胶星球</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017134400 +1100" stop="20261017134700 +1100">
+		<title lang="zh">造物集第6季35uv胶小伞首饰</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017134700 +1100" stop="20261017135000 +1100">
+		<title lang="zh">造物集第6季36卷饼笔袋</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017135000 +1100" stop="20261017135400 +1100">
+		<title lang="zh">造物集第6季37灯笼</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017135400 +1100" stop="20261017135700 +1100">
+		<title lang="zh">造物集第6季38版画</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017135700 +1100" stop="20261017140100 +1100">
+		<title lang="zh">造物集第6季39玫瑰刺绣</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017140100 +1100" stop="20261017140500 +1100">
+		<title lang="zh">造物集第6季40竹编灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017140500 +1100" stop="20261017140800 +1100">
+		<title lang="zh">造物集第6季41莲花灯</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017140800 +1100" stop="20261017141200 +1100">
+		<title lang="zh">造物集第6季42梦幻水晶石</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017141200 +1100" stop="20261017141500 +1100">
+		<title lang="zh">造物集第6季43皮具雪花</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017141500 +1100" stop="20261017141900 +1100">
+		<title lang="zh">造物集第6季44印画蜡烛</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017141900 +1100" stop="20261017142700 +1100">
+		<title lang="zh">绽放白鹿原最后的铁匠千锤百炼造十八般兵器</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017142700 +1100" stop="20261017143900 +1100">
+		<title lang="zh">绽放痴迷古砖研茶海茶盘品味秦汉韵</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017143900 +1100" stop="20261017145300 +1100">
+		<title lang="zh">绽放大气磅礴壮书坛梅月堂主何伯群</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017145300 +1100" stop="20261017150300 +1100">
+		<title lang="zh">绽放感悟匠心泥塑大师苗春生再现关中情</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017150300 +1100" stop="20261017151300 +1100">
+		<title lang="zh">绽放葫芦上的奇迹雕刻大师绽放中国梦</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017151300 +1100" stop="20261017152300 +1100">
+		<title lang="zh">绽放陋室琴师秉匠心千把胡琴铸天籁</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017152300 +1100" stop="20261017153200 +1100">
+		<title lang="zh">绽放美女沙画创业忙花样人生别样红</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017153200 +1100" stop="20261017154100 +1100">
+		<title lang="zh">绽放千年造纸绝技将失传探访最后手工造纸老人张逢学</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017154100 +1100" stop="20261017155300 +1100">
+		<title lang="zh">绽放深耕花鸟六十载著书立说传国粹</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017155300 +1100" stop="20261017160600 +1100">
+		<title lang="zh">绽放书画人生献公益大爱仁者张文敏</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017160600 +1100" stop="20261017161900 +1100">
+		<title lang="zh">绽放砖雕舞者十六载重塑大唐梦王泰来</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017161900 +1100" stop="20261017163900 +1100">
+		<title lang="zh">相见恨晚八扇屏</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017163900 +1100" stop="20261017165900 +1100">
+		<title lang="zh">相见恨晚传统与现代</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017165900 +1100" stop="20261017172100 +1100">
+		<title lang="zh">相见恨晚点头数</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017172100 +1100" stop="20261017174100 +1100">
+		<title lang="zh">相见恨晚对春联</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017174100 +1100" stop="20261017180100 +1100">
+		<title lang="zh">相见恨晚翻四辈</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017180100 +1100" stop="20261017182100 +1100">
+		<title lang="zh">相见恨晚反七口</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017182100 +1100" stop="20261017184100 +1100">
+		<title lang="zh">相见恨晚黄鹤楼</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017184100 +1100" stop="20261017190100 +1100">
+		<title lang="zh">相见恨晚金刚腿</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017190100 +1100" stop="20261017192100 +1100">
+		<title lang="zh">相见恨晚买卖论</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017192100 +1100" stop="20261017194100 +1100">
+		<title lang="zh">相见恨晚祛洗澡</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017194100 +1100" stop="20261017200100 +1100">
+		<title lang="zh">相见恨晚三节拜花巷</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017200100 +1100" stop="20261017202200 +1100">
+		<title lang="zh">相见恨晚说学逗唱</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017202200 +1100" stop="20261017204200 +1100">
+		<title lang="zh">相见恨晚瞎掰</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017204200 +1100" stop="20261017210200 +1100">
+		<title lang="zh">相见恨晚学电台</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017210200 +1100" stop="20261017212300 +1100">
+		<title lang="zh">相见恨晚学歌剧</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017212300 +1100" stop="20261017214300 +1100">
+		<title lang="zh">相见恨晚学哑语</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017214300 +1100" stop="20261017220100 +1100">
+		<title lang="zh">雨林之子01雨林血脉名字相联的族群</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017220100 +1100" stop="20261017221900 +1100">
+		<title lang="zh">雨林之子02雨林味道原生态食材猎奇</title>
+	</programme>
+	<programme channel="4K纪实" start="20261017221900 +1100" stop="20261017223800 +1100">
+		<title lang="zh">雨林之子03雨林礼物大自然的本色馈赠</title>
 	</programme>
 	<channel id="4K视界专区">
 		<display-name lang="zh">4K视界专区</display-name>
@@ -57899,6 +59348,9 @@
 		<display-name lang="zh">动画</display-name>
 	</channel>
 	<channel id="动画">
+		<display-name lang="zh">宝宝动画专区</display-name>
+	</channel>
+	<channel id="动画">
 		<display-name lang="zh">少儿动画专区</display-name>
 	</channel>
 	<programme channel="动画" start="20261011030000 +1100" stop="20261011030900 +1100">
@@ -71492,837 +72944,6 @@
 	<programme channel="安徽卫视" start="20261019024900 +1100" stop="20261019034100 +1100">
 		<title lang="zh">千里江入淮(2)</title>
 	</programme>
-	<channel id="宝宝动画专区">
-		<display-name lang="zh">宝宝动画专区</display-name>
-	</channel>
-	<programme channel="宝宝动画专区" start="20261011145300 +1100" stop="20261011150500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011150500 +1100" stop="20261011151700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011151700 +1100" stop="20261011152900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011152900 +1100" stop="20261011154100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011154100 +1100" stop="20261011155300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011155300 +1100" stop="20261011160500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011160500 +1100" stop="20261011161700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011161700 +1100" stop="20261011162900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011162900 +1100" stop="20261011164100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011164100 +1100" stop="20261011165300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011165300 +1100" stop="20261011170400 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011170400 +1100" stop="20261011171600 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011171600 +1100" stop="20261011172800 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011172800 +1100" stop="20261011174000 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011174000 +1100" stop="20261011175200 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011175200 +1100" stop="20261011180400 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011180400 +1100" stop="20261011181600 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011181600 +1100" stop="20261011182800 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011182800 +1100" stop="20261011184000 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011184000 +1100" stop="20261011185200 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011185200 +1100" stop="20261011190400 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011190400 +1100" stop="20261011191600 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011191600 +1100" stop="20261011192800 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011192800 +1100" stop="20261011194000 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011194000 +1100" stop="20261011195200 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011195200 +1100" stop="20261011200400 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011200400 +1100" stop="20261011201600 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011201600 +1100" stop="20261011202800 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011202800 +1100" stop="20261011204000 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011204000 +1100" stop="20261011205200 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011205200 +1100" stop="20261011210400 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011210400 +1100" stop="20261011211600 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011211600 +1100" stop="20261011212800 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011212800 +1100" stop="20261011214000 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011214000 +1100" stop="20261011215200 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011215200 +1100" stop="20261011220400 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011220400 +1100" stop="20261011221600 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011221600 +1100" stop="20261011222800 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011222800 +1100" stop="20261011224000 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011224000 +1100" stop="20261011225200 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011225200 +1100" stop="20261011230400 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011230400 +1100" stop="20261011231600 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011231600 +1100" stop="20261011232800 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011232800 +1100" stop="20261011234000 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011234000 +1100" stop="20261011235200 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261011235200 +1100" stop="20261012000400 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012000400 +1100" stop="20261012001600 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012001600 +1100" stop="20261012002800 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012002800 +1100" stop="20261012004000 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012004000 +1100" stop="20261012005200 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012005200 +1100" stop="20261012010300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012010300 +1100" stop="20261012011500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012011500 +1100" stop="20261012012700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012012700 +1100" stop="20261012013900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012013900 +1100" stop="20261012015100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012015100 +1100" stop="20261012020300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012020300 +1100" stop="20261012021500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012021500 +1100" stop="20261012022700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[11]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012022700 +1100" stop="20261012023900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[12]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012023900 +1100" stop="20261012025100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[13]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012025100 +1100" stop="20261011030300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[14]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012204900 +1100" stop="20261012210100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[16]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012210100 +1100" stop="20261012211300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[17]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012211300 +1100" stop="20261012212500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[18]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012212500 +1100" stop="20261012213700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[15]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012213700 +1100" stop="20261012214900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[16]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012214900 +1100" stop="20261012220100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[17]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012220100 +1100" stop="20261012221300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[18]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012221300 +1100" stop="20261012222500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[15]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012222500 +1100" stop="20261012223700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[16]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012223700 +1100" stop="20261012224900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[17]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012224900 +1100" stop="20261012230100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[18]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012230100 +1100" stop="20261012231300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[15]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012231300 +1100" stop="20261012232500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[16]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012232500 +1100" stop="20261012233700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[17]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012233700 +1100" stop="20261012234900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[18]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261012234900 +1100" stop="20261013000100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[15]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013000100 +1100" stop="20261013001300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[16]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013001300 +1100" stop="20261013002500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[17]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013002500 +1100" stop="20261013003700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[18]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013003700 +1100" stop="20261013004900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[15]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013004900 +1100" stop="20261013010100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[16]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013010100 +1100" stop="20261013011300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[17]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013011300 +1100" stop="20261013012500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[18]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013012500 +1100" stop="20261013013700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[15]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013013700 +1100" stop="20261013014900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[16]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013014900 +1100" stop="20261013020100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[17]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013020100 +1100" stop="20261013021300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[18]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013021300 +1100" stop="20261013022500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[15]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013022500 +1100" stop="20261013023700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[16]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013023700 +1100" stop="20261013024900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[17]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013024900 +1100" stop="20261012030100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[18]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013204900 +1100" stop="20261013210100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[20]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013210100 +1100" stop="20261013211300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[21]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013211300 +1100" stop="20261013212500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[22]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013212500 +1100" stop="20261013213700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[19]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013213700 +1100" stop="20261013214900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[20]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013214900 +1100" stop="20261013220100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[21]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013220100 +1100" stop="20261013221300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[22]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013221300 +1100" stop="20261013222500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[19]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013222500 +1100" stop="20261013223700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[20]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013223700 +1100" stop="20261013224900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[21]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013224900 +1100" stop="20261013230100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[22]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013230100 +1100" stop="20261013231300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[19]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013231300 +1100" stop="20261013232500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[20]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013232500 +1100" stop="20261013233700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[21]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013233700 +1100" stop="20261013234900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[22]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261013234900 +1100" stop="20261014000100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[19]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014000100 +1100" stop="20261014001300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[20]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014001300 +1100" stop="20261014002500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[21]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014002500 +1100" stop="20261014003700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[22]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014003700 +1100" stop="20261014004900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[19]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014004900 +1100" stop="20261014010100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[20]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014010100 +1100" stop="20261014011300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[21]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014011300 +1100" stop="20261014012500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[22]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014012500 +1100" stop="20261014013700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[19]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014013700 +1100" stop="20261014014900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[20]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014014900 +1100" stop="20261014020100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[21]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014020100 +1100" stop="20261014021300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[22]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014021300 +1100" stop="20261014022500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[19]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014022500 +1100" stop="20261014023700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[20]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014023700 +1100" stop="20261014024900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[21]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014024900 +1100" stop="20261013030100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[22]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014144900 +1100" stop="20261014150100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014150100 +1100" stop="20261014151300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014151300 +1100" stop="20261014152500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014152500 +1100" stop="20261014153700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014153700 +1100" stop="20261014154900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014154900 +1100" stop="20261014160100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014160100 +1100" stop="20261014161300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014161300 +1100" stop="20261014162500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014162500 +1100" stop="20261014163700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014163700 +1100" stop="20261014164900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014164900 +1100" stop="20261014170100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014170100 +1100" stop="20261014171300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014171300 +1100" stop="20261014172500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014172500 +1100" stop="20261014173700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014173700 +1100" stop="20261014174900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014174900 +1100" stop="20261014180100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014180100 +1100" stop="20261014181300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014181300 +1100" stop="20261014182500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014182500 +1100" stop="20261014183700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014183700 +1100" stop="20261014184900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014184900 +1100" stop="20261014190100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014190100 +1100" stop="20261014191300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014191300 +1100" stop="20261014192500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014192500 +1100" stop="20261014193700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014193700 +1100" stop="20261014194900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014194900 +1100" stop="20261014200100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014200100 +1100" stop="20261014201300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014201300 +1100" stop="20261014202500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014202500 +1100" stop="20261014203700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014203700 +1100" stop="20261014204900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014204900 +1100" stop="20261014210100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014210100 +1100" stop="20261014211300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014211300 +1100" stop="20261014212500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014212500 +1100" stop="20261014213700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014213700 +1100" stop="20261014214900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014214900 +1100" stop="20261014220100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014220100 +1100" stop="20261014221300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014221300 +1100" stop="20261014222500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014222500 +1100" stop="20261014223700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014223700 +1100" stop="20261014224900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014224900 +1100" stop="20261014230100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014230100 +1100" stop="20261014231300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014231300 +1100" stop="20261014232500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014232500 +1100" stop="20261014233700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014233700 +1100" stop="20261014234900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261014234900 +1100" stop="20261015000100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015000100 +1100" stop="20261015001300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015001300 +1100" stop="20261015002500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015002500 +1100" stop="20261015003700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015003700 +1100" stop="20261015004900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015004900 +1100" stop="20261015010100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015010100 +1100" stop="20261015011300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015011300 +1100" stop="20261015012500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015012500 +1100" stop="20261015013700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015013700 +1100" stop="20261015014900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015014900 +1100" stop="20261015020100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015020100 +1100" stop="20261015021300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015021300 +1100" stop="20261015022500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[23]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015022500 +1100" stop="20261015023700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[24]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015023700 +1100" stop="20261015024900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[25]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015024900 +1100" stop="20261014030100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[26]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015204900 +1100" stop="20261015210100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[28]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015210100 +1100" stop="20261015211300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[29]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015211300 +1100" stop="20261015212500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[30]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015212500 +1100" stop="20261015213700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[27]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015213700 +1100" stop="20261015214900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[28]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015214900 +1100" stop="20261015220100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[29]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015220100 +1100" stop="20261015221300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[30]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015221300 +1100" stop="20261015222500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[27]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015222500 +1100" stop="20261015223700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[28]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015223700 +1100" stop="20261015224900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[29]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015224900 +1100" stop="20261015230100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[30]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015230100 +1100" stop="20261015231300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[27]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015231300 +1100" stop="20261015232500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[28]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015232500 +1100" stop="20261015233700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[29]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015233700 +1100" stop="20261015234900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[30]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261015234900 +1100" stop="20261016000100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[27]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016000100 +1100" stop="20261016001300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[28]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016001300 +1100" stop="20261016002500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[29]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016002500 +1100" stop="20261016003700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[30]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016003700 +1100" stop="20261016004900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[27]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016004900 +1100" stop="20261016010100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[28]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016010100 +1100" stop="20261016011300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[29]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016011300 +1100" stop="20261016012500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[30]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016012500 +1100" stop="20261016013700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[27]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016013700 +1100" stop="20261016014900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[28]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016014900 +1100" stop="20261016020100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[29]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016020100 +1100" stop="20261016021300 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[30]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016021300 +1100" stop="20261016022500 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[27]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016022500 +1100" stop="20261016023700 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[28]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016023700 +1100" stop="20261016024900 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[29]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016024900 +1100" stop="20261015030100 +1100">
-		<title lang="zh">灵感大冒险2小小发明王[30]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016150000 +1100" stop="20261016151200 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016151200 +1100" stop="20261016152400 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016152400 +1100" stop="20261016153600 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016153600 +1100" stop="20261016154800 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016154800 +1100" stop="20261016160000 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016160000 +1100" stop="20261016161200 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016161200 +1100" stop="20261016162400 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016162400 +1100" stop="20261016163600 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016163600 +1100" stop="20261016164800 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016164800 +1100" stop="20261016170000 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016170000 +1100" stop="20261016171200 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016171200 +1100" stop="20261016172400 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016172400 +1100" stop="20261016173600 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016173600 +1100" stop="20261016174800 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016174800 +1100" stop="20261016180000 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016180000 +1100" stop="20261016181200 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016181200 +1100" stop="20261016182400 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016182400 +1100" stop="20261016183600 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016183600 +1100" stop="20261016184800 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016184800 +1100" stop="20261016190000 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016190000 +1100" stop="20261016191200 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016191200 +1100" stop="20261016192400 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016192400 +1100" stop="20261016193600 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016193600 +1100" stop="20261016194800 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016194800 +1100" stop="20261016200000 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016200000 +1100" stop="20261016201200 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016201200 +1100" stop="20261016202400 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016202400 +1100" stop="20261016203600 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016203600 +1100" stop="20261016204800 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016204800 +1100" stop="20261016210000 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016210000 +1100" stop="20261016211200 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016211200 +1100" stop="20261016212400 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016212400 +1100" stop="20261016213600 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016213600 +1100" stop="20261016214800 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016214800 +1100" stop="20261016220000 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016220000 +1100" stop="20261016221200 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016221200 +1100" stop="20261016222400 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016222400 +1100" stop="20261016223500 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016223500 +1100" stop="20261016224700 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016224700 +1100" stop="20261016225900 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016225900 +1100" stop="20261016231100 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016231100 +1100" stop="20261016232300 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016232300 +1100" stop="20261016233500 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016233500 +1100" stop="20261016234700 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016234700 +1100" stop="20261016235900 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261016235900 +1100" stop="20261017001100 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017001100 +1100" stop="20261017002300 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017002300 +1100" stop="20261017003500 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017003500 +1100" stop="20261017004700 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017004700 +1100" stop="20261017005900 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017005900 +1100" stop="20261017011100 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017011100 +1100" stop="20261017012300 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017012300 +1100" stop="20261017013500 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017013500 +1100" stop="20261017014700 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017014700 +1100" stop="20261017015900 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017015900 +1100" stop="20261017021100 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017021100 +1100" stop="20261017022300 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017022300 +1100" stop="20261017023500 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[2]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017023500 +1100" stop="20261017024700 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[3]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017024700 +1100" stop="20261017025900 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[4]</title>
-	</programme>
-	<programme channel="宝宝动画专区" start="20261017025900 +1100" stop="20261016031100 +1100">
-		<title lang="zh">神奇阿呦之最强流星人[1]</title>
-	</programme>
 	<channel id="家庭理财">
 		<display-name lang="zh">家庭理财</display-name>
 	</channel>
@@ -80152,90 +80773,6 @@
 	<programme channel="快乐垂钓" start="20261019040000 +1100" stop="20261019050000 +1100">
 		<title lang="zh">垂钓学院</title>
 		<desc lang="zh">欢迎使用</desc>
-	</programme>
-	<channel id="戏曲精选专区">
-		<display-name lang="zh">戏曲精选专区</display-name>
-	</channel>
-	<programme channel="戏曲精选专区" start="20261011134500 +1100" stop="20261011162100 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261011162100 +1100" stop="20261011185800 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261011185800 +1100" stop="20261011213400 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261011213400 +1100" stop="20261012001000 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261012001000 +1100" stop="20261012024700 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261012024700 +1100" stop="20261011052300 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261012182500 +1100" stop="20261012210200 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261012210200 +1100" stop="20261012233800 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261012233800 +1100" stop="20261013021500 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261013021500 +1100" stop="20261012045100 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261013203000 +1100" stop="20261013230600 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261013230600 +1100" stop="20261014014200 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261014014200 +1100" stop="20261013041900 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261014144400 +1100" stop="20261014172100 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261014172100 +1100" stop="20261014195700 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261014195700 +1100" stop="20261014223400 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261014223400 +1100" stop="20261015011000 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261015011000 +1100" stop="20261014034700 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261015192500 +1100" stop="20261015220100 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261015220100 +1100" stop="20261016003800 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261016003800 +1100" stop="20261015031400 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261016134000 +1100" stop="20261016161600 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261016161600 +1100" stop="20261016185300 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261016185300 +1100" stop="20261016212900 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261016212900 +1100" stop="20261017000600 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261017000600 +1100" stop="20261017024200 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
-	</programme>
-	<programme channel="戏曲精选专区" start="20261017024200 +1100" stop="20261016051800 +1100">
-		<title lang="zh">娱乐－雷雨－梅兰芳大剧院版本�...</title>
 	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
@@ -98746,240 +99283,6 @@
 	<programme channel="百变课堂专区" start="20261017025300 +1100" stop="20261016030400 +1100">
 		<title lang="zh">第二讲未来演说家小思</title>
 	</programme>
-	<channel id="看天下精选专区">
-		<display-name lang="zh">看天下精选专区</display-name>
-	</channel>
-	<programme channel="看天下精选专区" start="20261011144000 +1100" stop="20261011152500 +1100">
-		<title lang="zh">武夷山－我们的国家公园1－山水</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011152500 +1100" stop="20261011161000 +1100">
-		<title lang="zh">武夷山－我们的国家公园2－众生</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011161000 +1100" stop="20261011165500 +1100">
-		<title lang="zh">武夷山－我们的国家公园3－源道</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011165500 +1100" stop="20261011174000 +1100">
-		<title lang="zh">武夷山－我们的国家公园1－山水</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011174000 +1100" stop="20261011182500 +1100">
-		<title lang="zh">武夷山－我们的国家公园2－众生</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011182500 +1100" stop="20261011190900 +1100">
-		<title lang="zh">武夷山－我们的国家公园3－源道</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011190900 +1100" stop="20261011195400 +1100">
-		<title lang="zh">武夷山－我们的国家公园1－山水</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011195400 +1100" stop="20261011203900 +1100">
-		<title lang="zh">武夷山－我们的国家公园2－众生</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011203900 +1100" stop="20261011212300 +1100">
-		<title lang="zh">武夷山－我们的国家公园3－源道</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011212300 +1100" stop="20261011220800 +1100">
-		<title lang="zh">武夷山－我们的国家公园1－山水</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011220800 +1100" stop="20261011225300 +1100">
-		<title lang="zh">武夷山－我们的国家公园2－众生</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011225300 +1100" stop="20261011233800 +1100">
-		<title lang="zh">武夷山－我们的国家公园3－源道</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261011233800 +1100" stop="20261012002300 +1100">
-		<title lang="zh">武夷山－我们的国家公园1－山水</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012002300 +1100" stop="20261012010800 +1100">
-		<title lang="zh">武夷山－我们的国家公园2－众生</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012010800 +1100" stop="20261012015200 +1100">
-		<title lang="zh">武夷山－我们的国家公园3－源道</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012015200 +1100" stop="20261012023700 +1100">
-		<title lang="zh">武夷山－我们的国家公园1－山水</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012023700 +1100" stop="20261011032200 +1100">
-		<title lang="zh">武夷山－我们的国家公园2－众生</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012203600 +1100" stop="20261012212100 +1100">
-		<title lang="zh">水木清华－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012212100 +1100" stop="20261012220600 +1100">
-		<title lang="zh">汶川涅？－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012220600 +1100" stop="20261012225000 +1100">
-		<title lang="zh">楚都遗珍－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012225000 +1100" stop="20261012233500 +1100">
-		<title lang="zh">楚风遗韵－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261012233500 +1100" stop="20261013002000 +1100">
-		<title lang="zh">正说宫廷－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013002000 +1100" stop="20261013010500 +1100">
-		<title lang="zh">水木清华－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013010500 +1100" stop="20261013015000 +1100">
-		<title lang="zh">汶川涅？－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013015000 +1100" stop="20261013023500 +1100">
-		<title lang="zh">楚都遗珍－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013023500 +1100" stop="20261012032000 +1100">
-		<title lang="zh">楚风遗韵－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013203500 +1100" stop="20261013212000 +1100">
-		<title lang="zh">盛唐宝藏－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013212000 +1100" stop="20261013220500 +1100">
-		<title lang="zh">秦汉文明－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013220500 +1100" stop="20261013225000 +1100">
-		<title lang="zh">津门密档－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013225000 +1100" stop="20261013233500 +1100">
-		<title lang="zh">海底船奇－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261013233500 +1100" stop="20261014002000 +1100">
-		<title lang="zh">燕赵悲歌－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014002000 +1100" stop="20261014010500 +1100">
-		<title lang="zh">盛唐宝藏－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014010500 +1100" stop="20261014015000 +1100">
-		<title lang="zh">秦汉文明－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014015000 +1100" stop="20261014023500 +1100">
-		<title lang="zh">津门密档－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014023500 +1100" stop="20261013032000 +1100">
-		<title lang="zh">海底船奇－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014143500 +1100" stop="20261014152000 +1100">
-		<title lang="zh">红色别离－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014152000 +1100" stop="20261014160500 +1100">
-		<title lang="zh">美人心计－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014160500 +1100" stop="20261014165000 +1100">
-		<title lang="zh">西安风云－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014165000 +1100" stop="20261014173500 +1100">
-		<title lang="zh">辽沈战役－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014173500 +1100" stop="20261014182000 +1100">
-		<title lang="zh">邙山墓影－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014182000 +1100" stop="20261014190500 +1100">
-		<title lang="zh">红色别离－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014190500 +1100" stop="20261014195000 +1100">
-		<title lang="zh">美人心计－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014195000 +1100" stop="20261014203500 +1100">
-		<title lang="zh">西安风云－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014203500 +1100" stop="20261014212000 +1100">
-		<title lang="zh">辽沈战役－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014212000 +1100" stop="20261014220500 +1100">
-		<title lang="zh">邙山墓影－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014220500 +1100" stop="20261014225000 +1100">
-		<title lang="zh">红色别离－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014225000 +1100" stop="20261014233500 +1100">
-		<title lang="zh">美人心计－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261014233500 +1100" stop="20261015002000 +1100">
-		<title lang="zh">西安风云－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015002000 +1100" stop="20261015010500 +1100">
-		<title lang="zh">辽沈战役－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015010500 +1100" stop="20261015015000 +1100">
-		<title lang="zh">邙山墓影－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015015000 +1100" stop="20261015023500 +1100">
-		<title lang="zh">红色别离－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015023500 +1100" stop="20261014032000 +1100">
-		<title lang="zh">美人心计－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015204900 +1100" stop="20261015213500 +1100">
-		<title lang="zh">铜雀台－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015213500 +1100" stop="20261015222000 +1100">
-		<title lang="zh">千年莫高－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015222000 +1100" stop="20261015230400 +1100">
-		<title lang="zh">南宋芳华－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015230400 +1100" stop="20261015235000 +1100">
-		<title lang="zh">铜雀台－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261015235000 +1100" stop="20261016003500 +1100">
-		<title lang="zh">千年莫高－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016003500 +1100" stop="20261016012000 +1100">
-		<title lang="zh">南宋芳华－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016012000 +1100" stop="20261016015900 +1100">
-		<title lang="zh">古滇迷云－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016015900 +1100" stop="20261016024500 +1100">
-		<title lang="zh">铜雀台－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016024500 +1100" stop="20261015033000 +1100">
-		<title lang="zh">千年莫高－博物馆之夜－国产</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016142200 +1100" stop="20261016151400 +1100">
-		<title lang="zh">上甘岭[中集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016151400 +1100" stop="20261016160000 +1100">
-		<title lang="zh">上甘岭[下集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016160000 +1100" stop="20261016165200 +1100">
-		<title lang="zh">上甘岭[上集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016165200 +1100" stop="20261016174400 +1100">
-		<title lang="zh">上甘岭[中集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016174400 +1100" stop="20261016183000 +1100">
-		<title lang="zh">上甘岭[下集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016183000 +1100" stop="20261016192200 +1100">
-		<title lang="zh">上甘岭[上集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016192200 +1100" stop="20261016201400 +1100">
-		<title lang="zh">上甘岭[中集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016201400 +1100" stop="20261016210000 +1100">
-		<title lang="zh">上甘岭[下集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016210000 +1100" stop="20261016215200 +1100">
-		<title lang="zh">上甘岭[上集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016215200 +1100" stop="20261016224400 +1100">
-		<title lang="zh">上甘岭[中集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016224400 +1100" stop="20261016233000 +1100">
-		<title lang="zh">上甘岭[下集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261016233000 +1100" stop="20261017002200 +1100">
-		<title lang="zh">上甘岭[上集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261017002200 +1100" stop="20261017011400 +1100">
-		<title lang="zh">上甘岭[中集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261017011400 +1100" stop="20261017020000 +1100">
-		<title lang="zh">上甘岭[下集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261017020000 +1100" stop="20261017025200 +1100">
-		<title lang="zh">上甘岭[上集]</title>
-	</programme>
-	<programme channel="看天下精选专区" start="20261017025200 +1100" stop="20261016034400 +1100">
-		<title lang="zh">上甘岭[中集]</title>
-	</programme>
 	<channel id="精彩影视">
 		<display-name lang="zh">精彩影视</display-name>
 	</channel>
@@ -99381,6 +99684,309 @@
 	</programme>
 	<programme channel="精彩影视" start="20261018013600 +1100" stop="20261018025900 +1100">
 		<title lang="zh">武圣关公</title>
+	</programme>
+	<channel id="精选">
+		<display-name lang="zh">精选</display-name>
+	</channel>
+	<channel id="精选">
+		<display-name lang="zh">戏曲精选专区</display-name>
+	</channel>
+	<channel id="精选">
+		<display-name lang="zh">看天下精选专区</display-name>
+	</channel>
+	<programme channel="精选" start="20261011030000 +1100" stop="20261011035600 +1100">
+		<title lang="zh">异星觉醒普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261011035600 +1100" stop="20261011060300 +1100">
+		<title lang="zh">星际迷航普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261011060300 +1100" stop="20261011070000 +1100">
+		<title lang="zh">异星觉醒普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261011070000 +1100" stop="20261011090200 +1100">
+		<title lang="zh">勇敢者游戏2再战巅峰普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261011090200 +1100" stop="20261011110600 +1100">
+		<title lang="zh">心理游戏</title>
+	</programme>
+	<programme channel="精选" start="20261011110600 +1100" stop="20261011130800 +1100">
+		<title lang="zh">勇敢者游戏2再战巅峰普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261011130800 +1100" stop="20261011151200 +1100">
+		<title lang="zh">心理游戏</title>
+	</programme>
+	<programme channel="精选" start="20261011151200 +1100" stop="20261011171400 +1100">
+		<title lang="zh">勇敢者游戏2再战巅峰普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261011171400 +1100" stop="20261011191800 +1100">
+		<title lang="zh">心理游戏</title>
+	</programme>
+	<programme channel="精选" start="20261011191800 +1100" stop="20261011212000 +1100">
+		<title lang="zh">勇敢者游戏2再战巅峰普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261011212000 +1100" stop="20261011232400 +1100">
+		<title lang="zh">心理游戏</title>
+	</programme>
+	<programme channel="精选" start="20261011232400 +1100" stop="20261012012600 +1100">
+		<title lang="zh">勇敢者游戏2再战巅峰普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261012012600 +1100" stop="20261012025900 +1100">
+		<title lang="zh">心理游戏</title>
+	</programme>
+	<programme channel="精选" start="20261012030000 +1100" stop="20261012033000 +1100">
+		<title lang="zh">心理游戏</title>
+	</programme>
+	<programme channel="精选" start="20261012033000 +1100" stop="20261012053200 +1100">
+		<title lang="zh">勇敢者游戏2再战巅峰普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261012053200 +1100" stop="20261012070000 +1100">
+		<title lang="zh">心理游戏</title>
+	</programme>
+	<programme channel="精选" start="20261012070000 +1100" stop="20261012085000 +1100">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="精选" start="20261012085000 +1100" stop="20261012103700 +1100">
+		<title lang="zh">尼斯湖怪深水传说</title>
+	</programme>
+	<programme channel="精选" start="20261012103700 +1100" stop="20261012122700 +1100">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="精选" start="20261012122700 +1100" stop="20261012141400 +1100">
+		<title lang="zh">尼斯湖怪深水传说</title>
+	</programme>
+	<programme channel="精选" start="20261012141400 +1100" stop="20261012160400 +1100">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="精选" start="20261012160400 +1100" stop="20261012175100 +1100">
+		<title lang="zh">尼斯湖怪深水传说</title>
+	</programme>
+	<programme channel="精选" start="20261012175100 +1100" stop="20261012194100 +1100">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="精选" start="20261012194100 +1100" stop="20261012212800 +1100">
+		<title lang="zh">尼斯湖怪深水传说</title>
+	</programme>
+	<programme channel="精选" start="20261012212800 +1100" stop="20261012231800 +1100">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="精选" start="20261012231800 +1100" stop="20261013010500 +1100">
+		<title lang="zh">尼斯湖怪深水传说</title>
+	</programme>
+	<programme channel="精选" start="20261013010500 +1100" stop="20261013025600 +1100">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="精选" start="20261013025600 +1100" stop="20261013025900 +1100">
+		<title lang="zh">尼斯湖怪深水传说</title>
+	</programme>
+	<programme channel="精选" start="20261013030000 +1100" stop="20261013044300 +1100">
+		<title lang="zh">尼斯湖怪深水传说</title>
+	</programme>
+	<programme channel="精选" start="20261013044300 +1100" stop="20261013063300 +1100">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="精选" start="20261013063300 +1100" stop="20261013070000 +1100">
+		<title lang="zh">尼斯湖怪深水传说</title>
+	</programme>
+	<programme channel="精选" start="20261013070000 +1100" stop="20261013090400 +1100">
+		<title lang="zh">燃情岁月</title>
+	</programme>
+	<programme channel="精选" start="20261013090400 +1100" stop="20261013105600 +1100">
+		<title lang="zh">太空旅客</title>
+	</programme>
+	<programme channel="精选" start="20261013105600 +1100" stop="20261013130100 +1100">
+		<title lang="zh">燃情岁月</title>
+	</programme>
+	<programme channel="精选" start="20261013130100 +1100" stop="20261013145200 +1100">
+		<title lang="zh">太空旅客</title>
+	</programme>
+	<programme channel="精选" start="20261013145200 +1100" stop="20261013165700 +1100">
+		<title lang="zh">燃情岁月</title>
+	</programme>
+	<programme channel="精选" start="20261013165700 +1100" stop="20261013184900 +1100">
+		<title lang="zh">太空旅客</title>
+	</programme>
+	<programme channel="精选" start="20261013184900 +1100" stop="20261013205300 +1100">
+		<title lang="zh">燃情岁月</title>
+	</programme>
+	<programme channel="精选" start="20261013205300 +1100" stop="20261013224500 +1100">
+		<title lang="zh">太空旅客</title>
+	</programme>
+	<programme channel="精选" start="20261013224500 +1100" stop="20261014005000 +1100">
+		<title lang="zh">燃情岁月</title>
+	</programme>
+	<programme channel="精选" start="20261014005000 +1100" stop="20261014024200 +1100">
+		<title lang="zh">太空旅客</title>
+	</programme>
+	<programme channel="精选" start="20261014024200 +1100" stop="20261014025900 +1100">
+		<title lang="zh">燃情岁月</title>
+	</programme>
+	<programme channel="精选" start="20261014030000 +1100" stop="20261014044600 +1100">
+		<title lang="zh">燃情岁月</title>
+	</programme>
+	<programme channel="精选" start="20261014044600 +1100" stop="20261014063800 +1100">
+		<title lang="zh">太空旅客</title>
+	</programme>
+	<programme channel="精选" start="20261014063800 +1100" stop="20261014070000 +1100">
+		<title lang="zh">燃情岁月</title>
+	</programme>
+	<programme channel="精选" start="20261014070000 +1100" stop="20261014090800 +1100">
+		<title lang="zh">地心末日</title>
+	</programme>
+	<programme channel="精选" start="20261014090800 +1100" stop="20261014111300 +1100">
+		<title lang="zh">傲慢与偏见</title>
+	</programme>
+	<programme channel="精选" start="20261014111300 +1100" stop="20261014132200 +1100">
+		<title lang="zh">地心末日</title>
+	</programme>
+	<programme channel="精选" start="20261014132200 +1100" stop="20261014152700 +1100">
+		<title lang="zh">傲慢与偏见</title>
+	</programme>
+	<programme channel="精选" start="20261014152700 +1100" stop="20261014173500 +1100">
+		<title lang="zh">地心末日</title>
+	</programme>
+	<programme channel="精选" start="20261014173500 +1100" stop="20261014194000 +1100">
+		<title lang="zh">傲慢与偏见</title>
+	</programme>
+	<programme channel="精选" start="20261014194000 +1100" stop="20261014214900 +1100">
+		<title lang="zh">地心末日</title>
+	</programme>
+	<programme channel="精选" start="20261014214900 +1100" stop="20261014235400 +1100">
+		<title lang="zh">傲慢与偏见</title>
+	</programme>
+	<programme channel="精选" start="20261014235400 +1100" stop="20261015020300 +1100">
+		<title lang="zh">地心末日</title>
+	</programme>
+	<programme channel="精选" start="20261015020300 +1100" stop="20261015025900 +1100">
+		<title lang="zh">傲慢与偏见</title>
+	</programme>
+	<programme channel="精选" start="20261015030000 +1100" stop="20261015040700 +1100">
+		<title lang="zh">傲慢与偏见</title>
+	</programme>
+	<programme channel="精选" start="20261015040700 +1100" stop="20261015061600 +1100">
+		<title lang="zh">地心末日</title>
+	</programme>
+	<programme channel="精选" start="20261015061600 +1100" stop="20261015070000 +1100">
+		<title lang="zh">傲慢与偏见</title>
+	</programme>
+	<programme channel="精选" start="20261015070000 +1100" stop="20261015083900 +1100">
+		<title lang="zh">密室逃生</title>
+	</programme>
+	<programme channel="精选" start="20261015083900 +1100" stop="20261015102300 +1100">
+		<title lang="zh">年鉴计划</title>
+	</programme>
+	<programme channel="精选" start="20261015102300 +1100" stop="20261015120300 +1100">
+		<title lang="zh">密室逃生</title>
+	</programme>
+	<programme channel="精选" start="20261015120300 +1100" stop="20261015134700 +1100">
+		<title lang="zh">年鉴计划</title>
+	</programme>
+	<programme channel="精选" start="20261015134700 +1100" stop="20261015152700 +1100">
+		<title lang="zh">密室逃生</title>
+	</programme>
+	<programme channel="精选" start="20261015152700 +1100" stop="20261015171100 +1100">
+		<title lang="zh">年鉴计划</title>
+	</programme>
+	<programme channel="精选" start="20261015171100 +1100" stop="20261015185000 +1100">
+		<title lang="zh">密室逃生</title>
+	</programme>
+	<programme channel="精选" start="20261015185000 +1100" stop="20261015203500 +1100">
+		<title lang="zh">年鉴计划</title>
+	</programme>
+	<programme channel="精选" start="20261015203500 +1100" stop="20261015221400 +1100">
+		<title lang="zh">密室逃生</title>
+	</programme>
+	<programme channel="精选" start="20261015221400 +1100" stop="20261015235800 +1100">
+		<title lang="zh">年鉴计划</title>
+	</programme>
+	<programme channel="精选" start="20261015235800 +1100" stop="20261016013800 +1100">
+		<title lang="zh">密室逃生</title>
+	</programme>
+	<programme channel="精选" start="20261016013800 +1100" stop="20261016025900 +1100">
+		<title lang="zh">年鉴计划</title>
+	</programme>
+	<programme channel="精选" start="20261016030000 +1100" stop="20261016032200 +1100">
+		<title lang="zh">年鉴计划</title>
+	</programme>
+	<programme channel="精选" start="20261016032200 +1100" stop="20261016050200 +1100">
+		<title lang="zh">密室逃生</title>
+	</programme>
+	<programme channel="精选" start="20261016050200 +1100" stop="20261016064600 +1100">
+		<title lang="zh">年鉴计划</title>
+	</programme>
+	<programme channel="精选" start="20261016064600 +1100" stop="20261016070000 +1100">
+		<title lang="zh">密室逃生</title>
+	</programme>
+	<programme channel="精选" start="20261016070000 +1100" stop="20261016085600 +1100">
+		<title lang="zh">当幸福来敲门普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261016085600 +1100" stop="20261016113200 +1100">
+		<title lang="zh">悲惨世界</title>
+	</programme>
+	<programme channel="精选" start="20261016113200 +1100" stop="20261016132900 +1100">
+		<title lang="zh">当幸福来敲门普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261016132900 +1100" stop="20261016160500 +1100">
+		<title lang="zh">悲惨世界</title>
+	</programme>
+	<programme channel="精选" start="20261016160500 +1100" stop="20261016180200 +1100">
+		<title lang="zh">当幸福来敲门普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261016180200 +1100" stop="20261016203700 +1100">
+		<title lang="zh">悲惨世界</title>
+	</programme>
+	<programme channel="精选" start="20261016203700 +1100" stop="20261016223400 +1100">
+		<title lang="zh">当幸福来敲门普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261016223400 +1100" stop="20261017011000 +1100">
+		<title lang="zh">悲惨世界</title>
+	</programme>
+	<programme channel="精选" start="20261017011000 +1100" stop="20261017025900 +1100">
+		<title lang="zh">当幸福来敲门普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261017030000 +1100" stop="20261017030700 +1100">
+		<title lang="zh">当幸福来敲门普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261017030700 +1100" stop="20261017054300 +1100">
+		<title lang="zh">悲惨世界</title>
+	</programme>
+	<programme channel="精选" start="20261017054300 +1100" stop="20261017070000 +1100">
+		<title lang="zh">当幸福来敲门普通话版</title>
+	</programme>
+	<programme channel="精选" start="20261017070000 +1100" stop="20261017085600 +1100">
+		<title lang="zh">老无所依</title>
+	</programme>
+	<programme channel="精选" start="20261017085600 +1100" stop="20261017102100 +1100">
+		<title lang="zh">小王子</title>
+	</programme>
+	<programme channel="精选" start="20261017102100 +1100" stop="20261017121700 +1100">
+		<title lang="zh">老无所依</title>
+	</programme>
+	<programme channel="精选" start="20261017121700 +1100" stop="20261017134200 +1100">
+		<title lang="zh">小王子</title>
+	</programme>
+	<programme channel="精选" start="20261017134200 +1100" stop="20261017153900 +1100">
+		<title lang="zh">老无所依</title>
+	</programme>
+	<programme channel="精选" start="20261017153900 +1100" stop="20261017170300 +1100">
+		<title lang="zh">小王子</title>
+	</programme>
+	<programme channel="精选" start="20261017170300 +1100" stop="20261017190000 +1100">
+		<title lang="zh">老无所依</title>
+	</programme>
+	<programme channel="精选" start="20261017190000 +1100" stop="20261017202500 +1100">
+		<title lang="zh">小王子</title>
+	</programme>
+	<programme channel="精选" start="20261017202500 +1100" stop="20261017222100 +1100">
+		<title lang="zh">老无所依</title>
+	</programme>
+	<programme channel="精选" start="20261017222100 +1100" stop="20261017234600 +1100">
+		<title lang="zh">小王子</title>
+	</programme>
+	<programme channel="精选" start="20261017234600 +1100" stop="20261018014200 +1100">
+		<title lang="zh">老无所依</title>
+	</programme>
+	<programme channel="精选" start="20261018014200 +1100" stop="20261018025900 +1100">
+		<title lang="zh">小王子</title>
 	</programme>
 	<channel id="经典电影">
 		<display-name lang="zh">经典电影</display-name>
